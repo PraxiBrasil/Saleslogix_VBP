@@ -336,4 +336,7 @@
   <data name="dtpDateCreated.ButtonToolTip" xml:space="preserve">
     <value>Calendar</value>
   </data>
+  <data name="QFTextBox.Caption" xml:space="preserve">
+    <value>Sincronismo</value>
+  </data>
 </root>
