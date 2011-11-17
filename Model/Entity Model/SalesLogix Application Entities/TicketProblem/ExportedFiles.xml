@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\TicketProblem\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:25.2630" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\TicketProblem\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:25.2170" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\TicketProblem\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:25.2630" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\TicketProblem\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:25.2630" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\TicketProblem\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:25.2630" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\TicketProblem\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:25.2630" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\TicketProblem\OnCreate.method.xml" timeStamp="2010-08-11T04:10:25.2630" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\TicketProblem\TicketProblem.Ticket.TICKETPROBLEM.entity.xml" timeStamp="2010-08-11T04:10:25.2800" />
+</exportedFiles>

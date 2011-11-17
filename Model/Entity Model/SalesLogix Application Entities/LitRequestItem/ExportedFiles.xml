@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LitRequestItem\LitRequestItem.LITREQUESTITEM.entity.xml" timeStamp="2010-08-11T04:10:20.4670" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LitRequestItem\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:20.3870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LitRequestItem\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:20.4370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LitRequestItem\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:20.4200" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LitRequestItem\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:20.4370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LitRequestItem\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:20.4200" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LitRequestItem\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:20.4030" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LitRequestItem\OnCreate.method.xml" timeStamp="2010-08-11T04:10:20.4030" />
+</exportedFiles>

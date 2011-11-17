@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="GettingStartedGuide" xml:space="preserve">
+    <value>Guia de Primeiros Passos</value>
+  </data>
+  <data name="Groups" xml:space="preserve">
+    <value>Grupos</value>
+  </data>
+  <data name="Help" xml:space="preserve">
+    <value>Ajuda</value>
+  </data>
+  <data name="IdleMessage" xml:space="preserve">
+    <value>. Inativo por {0} minutos.</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>Carregando...</value>
+  </data>
+  <data name="LogOff" xml:space="preserve">
+    <value>Log Off</value>
+  </data>
+  <data name="LogoffMessage" xml:space="preserve">
+    <value>. Auto logoff em {0} minutos.</value>
+  </data>
+  <data name="Options" xml:space="preserve">
+    <value>Opções:</value>
+  </data>
+  <data name="PageTitle" xml:space="preserve">
+    <value>Sage SalesLogix</value>
+  </data>
+  <data name="PleaseWait" xml:space="preserve">
+    <value>Por favor, Espere...</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Realizar Busca</value>
+  </data>
+  <data name="SpeedSearch" xml:space="preserve">
+    <value>Busca Rápida</value>
+  </data>
+  <data name="ssMenuItem_Advanced" xml:space="preserve">
+    <value>Avançado</value>
+  </data>
+  <data name="TodayIs" xml:space="preserve">
+    <value>Hoje é</value>
+  </data>
+  <data name="UnspecifiedError" xml:space="preserve">
+    <value>Ocorreu um erro não especificado.</value>
+  </data>
+  <data name="Updating" xml:space="preserve">
+    <value>Atualizando</value>
+  </data>
+  <data name="UserWelcomeText" xml:space="preserve">
+    <value>{0} {1}</value>
+  </data>
+  <data name="WebClientHelp" xml:space="preserve">
+    <value>Ajuda Cliente Web</value>
+  </data>
+  <data name="SpeedSearchOptions" xml:space="preserve">
+    <value>Opções de Busca Rápida</value>
+  </data>
+  <data name="AdHocDialog_NewGroupNamePrompt" xml:space="preserve">
+    <value>{0} registros selecionados serão adicionado a esse novo grupo.&lt;br&gt;&lt;br&gt;Nome do Grupo:</value>
+  </data>
+  <data name="AdHocDialog_NewGroupRePrompt" xml:space="preserve">
+    <value>&amp;nbsp;&amp;nbsp;&lt;i&gt;Por favor, indique  um nome de grupo.&lt;/i&gt;</value>
+  </data>
+  <data name="AdHocDialog_NewGroupTitle" xml:space="preserve">
+    <value>Adicionar Registros para um novo Grupo</value>
+  </data>
+  <data name="AdHocDialog_NoData" xml:space="preserve">
+    <value>Não há dados disponíveis</value>
+  </data>
+  <data name="AdHocDialog_NoEmail" xml:space="preserve">
+    <value>Primeiro email não está disponível</value>
+  </data>
+  <data name="AdHocDialog_NoneSelectedAddToGroup" xml:space="preserve">
+    <value>Não há registros selecionados. Todo o grupo, {0} registro(s), serão adicionados.  Continuar?</value>
+  </data>
+  <data name="AdHocDialog_NoneSelectedExcel" xml:space="preserve">
+    <value>Não há registros selecionados. Todo o grupo, {0} registro(s), serão adicionados.  Continuar?</value>
+  </data>
+  <data name="AdHocDialog_NoneSelectedNewGroup" xml:space="preserve">
+    <value>Não há registros selecionados. Todo o grupo, {0} registro(s), serão adicionados.  Continuar?</value>
+  </data>
+  <data name="AdHocDialog_NoneSelectedRemove" xml:space="preserve">
+    <value>Não há registros selecionados. Todo o grupo, {0} registro(s), serão adicionados.  Continuar?</value>
+  </data>
+  <data name="AdHocDialog_NoneSelectedTitle" xml:space="preserve">
+    <value>Nenhum registro selecionado</value>
+  </data>
+  <data name="Lookup" xml:space="preserve">
+    <value>Buscar</value>
+  </data>
+  <data name="LookupBtnWidth" xml:space="preserve">
+    <value>85</value>
+  </data>
+  <data name="LookupSaveAsGroup" xml:space="preserve">
+    <value>Salvar Busca como Grupo</value>
+  </data>
+  <data name="SaveLookupAsGroupNameDlgTitle" xml:space="preserve">
+    <value>Salvar Resultados da Busca como Novo Grupo</value>
+  </data>
+  <data name="SaveLookupAsGroupNamePrompt" xml:space="preserve">
+    <value>Nome de Grupo:</value>
+  </data>
+  <data name="ActivitiesDialog_DeleteActivity" xml:space="preserve">
+    <value>Tem certeza de que deseja Remover esta Atividade?</value>
+  </data>
+  <data name="ActivitiesDialog_DeleteActivityTitle" xml:space="preserve">
+    <value>Excluir Atividade</value>
+  </data>
+  <data name="About" xml:space="preserve">
+    <value>Sobre</value>
+  </data>
+  <data name="TooManyGroupsTipLinkText" xml:space="preserve">
+    <value>Clique aqui para gerenciar os grupos que aparecem.</value>
+  </data>
+  <data name="TooManyGroupsTipText" xml:space="preserve">
+    <value>Você tem grupos que não se encaixam nesta barra de abas.</value>
+  </data>
+  <data name="AdHocDialog_GroupCountZero" xml:space="preserve">
+    <value>Não há registros a serem selecionados a partir deste grupo.</value>
+  </data>
+  <data name="confirm_DeleteRecords" xml:space="preserve">
+    <value>Tem certeza de que deseja excluir os registros selecionados?</value>
+  </data>
+  <data name="SaveLookupAsGroupInvalidChar" xml:space="preserve">
+    <value>Nome não pode conter: /\ : * ? “ &lt;&gt; | or ‘</value>
+  </data>
+  <data name="AdHocDialog_CancelButton" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="AdHocDialog_OkButton" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="Leads_AssignOwner_ProgressMsg" xml:space="preserve">
+    <value>Atribuindo um novo propietário para Leads...</value>
+  </data>
+  <data name="Leads_AssignOwner_ProgressTitle" xml:space="preserve">
+    <value>Por favor, espere</value>
+  </data>
+  <data name="Leads_DeleteLeads_ProgressMsg" xml:space="preserve">
+    <value>Excluindo Leads...</value>
+  </data>
+  <data name="AdHocDialog_NoButton" xml:space="preserve">
+    <value>Não</value>
+  </data>
+  <data name="AdHocDialog_YesButton" xml:space="preserve">
+    <value>Sim</value>
+  </data>
+  <data name="Merge_Account_SelectionError" xml:space="preserve">
+    <value>A fim de executar uma mesclagem você deve ter dois registros selecionados.</value>
+  </data>
+  <data name="MailMergeView_Cancel" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="MailMergeView_Email" xml:space="preserve">
+    <value>E-Mail</value>
+  </data>
+  <data name="MailMergeView_Fax" xml:space="preserve">
+    <value>FAX</value>
+  </data>
+  <data name="MailMergeView_Letter" xml:space="preserve">
+    <value>Carta</value>
+  </data>
+  <data name="MailMergeView_Personal" xml:space="preserve">
+    <value>Pessoal</value>
+  </data>
+  <data name="MailMergeView_Public" xml:space="preserve">
+    <value>Público</value>
+  </data>
+  <data name="MailMergeView_Title" xml:space="preserve">
+    <value>Modelos</value>
+  </data>
+  <data name="AdHocDialog_NoneSelectedProcess" xml:space="preserve">
+    <value>Não há registros selecionados. O grupo completo, {0} registro (s), será processado. Continuar?</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="PromoteTitle" xml:space="preserve">
+    <value>Promover para Dashboard</value>
+  </data>
+  <data name="Warning" xml:space="preserve">
+    <value>Aviso</value>
+  </data>
+  <data name="PromoteDescription" xml:space="preserve">
+    <value>Mostrar esta lista de grupos na página do painel seguinte:</value>
+  </data>
+  <data name="PromotionNotification" xml:space="preserve">
+    <value>Grupo&lt;b&gt;{1}&lt;/b&gt; foi promovido para a &lt;b&gt;{0}&lt;/b&gt; página dashboard.</value>
+  </data>
+  <data name="AsScheduled" xml:space="preserve">
+    <value>Programada</value>
+  </data>
+  <data name="Complete" xml:space="preserve">
+    <value>Completar</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Descrição:</value>
+  </data>
+  <data name="FindOutMore" xml:space="preserve">
+    <value>Para pesquisar mais</value>
+  </data>
+  <data name="Individually" xml:space="preserve">
+    <value>Individualmente</value>
+  </data>
+  <data name="MissingPostUrl" xml:space="preserve">
+    <value>Mensagem URL Em falta</value>
+  </data>
+  <data name="NoteAppendToAll" xml:space="preserve">
+    <value>Nota (anexar todos os itens)</value>
+  </data>
+  <data name="Now" xml:space="preserve">
+    <value>Agora</value>
+  </data>
+  <data name="PercentCompleteFmt" xml:space="preserve">
+    <value>{0}% completo</value>
+  </data>
+  <data name="QuickComplete" xml:space="preserve">
+    <value>Conclusão Rápida</value>
+  </data>
+  <data name="Result" xml:space="preserve">
+    <value>Resultado</value>
+  </data>
+  <data name="SaveAttachments" xml:space="preserve">
+    <value>Salvar Anexos</value>
+  </data>
+  <data name="SDI_AddAttachmentsFor" xml:space="preserve">
+    <value>Adicionar Anexo (s) para {0}</value>
+  </data>
+  <data name="SDI_ClickToDownload" xml:space="preserve">
+    <value>Clique para baixar acessórios do produto.</value>
+  </data>
+  <data name="SDI_ErrorExaminingFile" xml:space="preserve">
+    <value>Ocorreu um erro ao analisar o arquivo.</value>
+  </data>
+  <data name="SDI_FeatureCanBeInstalled" xml:space="preserve">
+    <value>Nota: Este recurso pode ser instalado em qualquer momento a partir do login ou páginas de opções.</value>
+  </data>
+  <data name="SDI_FeatureRequiresSDI" xml:space="preserve">
+    <value>O recurso que você está solicitando requer a instalação do módulo SalesLogix Sage Desktop Integration.</value>
+  </data>
+  <data name="SDI_FileNameAndSize" xml:space="preserve">
+    <value>Nome do arquivo e tamanho:</value>
+  </data>
+  <data name="SDI_FilesDropped" xml:space="preserve">
+    <value>Arquivos caiu</value>
+  </data>
+  <data name="SDI_InstallFeatureNow" xml:space="preserve">
+    <value>Você gostaria de instalar esse recurso agora?</value>
+  </data>
+  <data name="SDI_KeepAttachmentsConfirmation" xml:space="preserve">
+    <value>Gostaria de manter uma cópia desses anexo (s) em SalesLogix?&lt;br /&gt;Os anexos serão armazenados sob a guia Anexos para as entidades relevantes.</value>
+  </data>
+  <data name="SDI_LargeUploadWarning" xml:space="preserve">
+    <value>Atenção: Este pedido pode exceder o limite definido pelo administrador e falhar ao carregar. Você gostaria de continuar?</value>
+  </data>
+  <data name="SDI_SDIMustBeInstalled" xml:space="preserve">
+    <value>Módulo de Integração Sage SalesLogix Desktop deve ser instalado para usar este recurso.</value>
+  </data>
+  <data name="SDI_UploadComplete" xml:space="preserve">
+    <value>Upload de Arquivo Completo</value>
+  </data>
+  <data name="SDI_Uploading" xml:space="preserve">
+    <value>enviando ...</value>
+  </data>
+  <data name="SDI_UploadingFiles" xml:space="preserve">
+    <value>Upload de arquivos</value>
+  </data>
+  <data name="UploadAttachment" xml:space="preserve">
+    <value>Upload de Anexo</value>
+  </data>
+</root>

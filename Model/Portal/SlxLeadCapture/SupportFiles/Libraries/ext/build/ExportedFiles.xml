@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxLeadCapture\SupportFiles\Libraries\ext\build\debug-min.js" timeStamp="2010-08-11T04:11:03.5300" />
+  <exportedFile url="\Portal\SlxLeadCapture\SupportFiles\Libraries\ext\build\adapter\" />
+  <exportedFile url="\Portal\SlxLeadCapture\SupportFiles\Libraries\ext\build\core\" />
+  <exportedFile url="\Portal\SlxLeadCapture\SupportFiles\Libraries\ext\build\data\" />
+  <exportedFile url="\Portal\SlxLeadCapture\SupportFiles\Libraries\ext\build\dd\" />
+  <exportedFile url="\Portal\SlxLeadCapture\SupportFiles\Libraries\ext\build\locale\" />
+  <exportedFile url="\Portal\SlxLeadCapture\SupportFiles\Libraries\ext\build\state\" />
+  <exportedFile url="\Portal\SlxLeadCapture\SupportFiles\Libraries\ext\build\util\" />
+  <exportedFile url="\Portal\SlxLeadCapture\SupportFiles\Libraries\ext\build\widgets\" />
+</exportedFiles>

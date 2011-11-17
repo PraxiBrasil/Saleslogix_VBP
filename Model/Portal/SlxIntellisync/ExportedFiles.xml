@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxIntellisync\ContextMenuItems.order.xml" timeStamp="2010-08-11T04:10:47.7330" />
+  <exportedFile url="\Portal\SlxIntellisync\MenuItems.order.xml" timeStamp="2010-08-11T04:10:47.7330" />
+  <exportedFile url="\Portal\SlxIntellisync\Modules.order.xml" timeStamp="2010-08-11T04:10:47.7330" />
+  <exportedFile url="\Portal\SlxIntellisync\NavigationGroups.order.xml" timeStamp="2010-08-11T04:10:47.7630" />
+  <exportedFile url="\Portal\SlxIntellisync\Services.order.xml" timeStamp="2010-08-11T04:10:47.7630" />
+  <exportedFile url="\Portal\SlxIntellisync\SlxIntellisync.portal.xml" timeStamp="2010-08-11T04:10:47.7800" />
+  <exportedFile url="\Portal\SlxIntellisync\SlxIntellisync.portal.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:44.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SlxIntellisync.portal.xml.resx" timeStamp="2010-08-11T04:10:47.7630" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles.def.xml" timeStamp="2010-08-11T04:10:47.7630" />
+  <exportedFile url="\Portal\SlxIntellisync\Deployment\" />
+  <exportedFile url="\Portal\SlxIntellisync\Services\" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\" />
+</exportedFiles>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\ext\build\data\ArrayReader-min.js" timeStamp="2010-08-11T04:11:03.5900" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\ext\build\data\Connection-min.js" timeStamp="2010-08-11T04:11:03.6530" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\ext\build\data\DataField-min.js" timeStamp="2010-08-11T04:11:03.7330" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\ext\build\data\DataProxy-min.js" timeStamp="2010-08-11T04:11:03.6070" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\ext\build\data\DataReader-min.js" timeStamp="2010-08-11T04:11:03.6230" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\ext\build\data\GroupingStore-min.js" timeStamp="2010-08-11T04:11:03.6230" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\ext\build\data\HttpProxy-min.js" timeStamp="2010-08-11T04:11:03.6700" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\ext\build\data\JsonReader-min.js" timeStamp="2010-08-11T04:11:03.7330" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\ext\build\data\JsonStore-min.js" timeStamp="2010-08-11T04:11:03.6530" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\ext\build\data\MemoryProxy-min.js" timeStamp="2010-08-11T04:11:03.7000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\ext\build\data\Record-min.js" timeStamp="2010-08-11T04:11:03.7000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\ext\build\data\ScriptTagProxy-min.js" timeStamp="2010-08-11T04:11:03.7000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\ext\build\data\SimpleStore-min.js" timeStamp="2010-08-11T04:11:03.7170" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\ext\build\data\SortTypes-min.js" timeStamp="2010-08-11T04:11:03.7170" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\ext\build\data\Store-min.js" timeStamp="2010-08-11T04:11:03.7170" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\ext\build\data\StoreMgr-min.js" timeStamp="2010-08-11T04:11:03.7000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\ext\build\data\Tree-min.js" timeStamp="2010-08-11T04:11:03.8400" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\ext\build\data\XmlReader-min.js" timeStamp="2010-08-11T04:11:03.7800" />
+</exportedFiles>

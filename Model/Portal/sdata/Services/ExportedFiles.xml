@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\sdata\Services\Sage.Platform.Application.Services.IUserOptionsService.service.xml" timeStamp="2010-08-11T04:10:29.7330" />
+  <exportedFile url="\Portal\sdata\Services\Sage.Platform.Data.IDataService.service.xml" timeStamp="2010-08-11T04:10:29.7330" />
+  <exportedFile url="\Portal\sdata\Services\Sage.Platform.Data.IHibernateConfigurationService.service.xml" timeStamp="2010-08-11T04:10:29.7630" />
+  <exportedFile url="\Portal\sdata\Services\Sage.Platform.Orm.Services.IDynamicEntityConfigurationService.service.xml" timeStamp="2010-08-11T04:10:29.7330" />
+  <exportedFile url="\Portal\sdata\Services\Sage.Platform.Orm.Services.IDynamicEntityNHibernateConfigurationService.service.xml" timeStamp="2010-08-11T04:10:29.7800" />
+  <exportedFile url="\Portal\sdata\Services\Sage.Platform.Orm.Services.IDynamicEntitySDataConfigurationService.service.xml" timeStamp="2010-08-11T04:10:29.7470" />
+  <exportedFile url="\Portal\sdata\Services\Sage.Platform.Security.IUserService.service.xml" timeStamp="2010-08-11T04:10:29.7470" />
+</exportedFiles>

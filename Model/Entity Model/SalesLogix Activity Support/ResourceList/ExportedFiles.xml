@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\ResourceList\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:15.6870" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\ResourceList\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:15.6870" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\ResourceList\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:15.6700" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\ResourceList\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:15.6870" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\ResourceList\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:15.6870" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\ResourceList\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:15.7170" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\ResourceList\OnCreate.method.xml" timeStamp="2010-08-11T04:10:15.7170" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\ResourceList\ResourceList.RESOURCELIST.entity.xml" timeStamp="2010-08-11T04:10:15.7470" />
+</exportedFiles>

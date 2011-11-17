@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Security Support\SecuredActionRole\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:26.7000" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\SecuredActionRole\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:26.7170" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\SecuredActionRole\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:26.6700" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\SecuredActionRole\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:26.6700" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\SecuredActionRole\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:26.6870" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\SecuredActionRole\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:26.7330" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\SecuredActionRole\OnCreate.method.xml" timeStamp="2010-08-11T04:10:26.6870" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\SecuredActionRole\SecuredActionRole.SECUREDACTIONROLE.entity.xml" timeStamp="2010-08-11T04:10:26.8100" />
+</exportedFiles>

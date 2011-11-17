@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxClient\ChildPages\ImportHistory\ImportHistory.page.xml" timeStamp="2010-08-11T04:10:31.9970" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\ImportHistory\ImportHistory.page.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\ImportHistory\ImportHistory.page.xml.resx" timeStamp="2010-08-11T04:10:32.0300" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\ImportHistory\Modules.order.xml" timeStamp="2010-08-11T04:10:32.0300" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\ImportHistory\SmartParts.order.xml" timeStamp="2010-08-11T04:10:32.0300" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\ImportHistory\Modules\" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\ImportHistory\SmartParts\" />
+</exportedFiles>

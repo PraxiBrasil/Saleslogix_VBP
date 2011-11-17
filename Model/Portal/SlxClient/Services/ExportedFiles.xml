@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxClient\Services\Sage.Platform.Application.Services.ITransactionManagerService.service.xml" timeStamp="2010-08-11T04:10:39.9670" />
+  <exportedFile url="\Portal\SlxClient\Services\Sage.Platform.Application.Services.IUserOptionsService.service.xml" timeStamp="2010-08-11T04:10:39.9500" />
+  <exportedFile url="\Portal\SlxClient\Services\Sage.Platform.Data.IDataService.service.xml" timeStamp="2010-08-11T04:10:39.9500" />
+  <exportedFile url="\Portal\SlxClient\Services\Sage.Platform.Data.IHibernateConfigurationService.service.xml" timeStamp="2010-08-11T04:10:39.9830" />
+  <exportedFile url="\Portal\SlxClient\Services\Sage.Platform.Mashups.IMashupDiscoveryService.service.xml" timeStamp="2010-08-11T04:10:39.9830" />
+  <exportedFile url="\Portal\SlxClient\Services\Sage.Platform.NamedQueries.INamedQueryCacheService.service.xml" timeStamp="2010-08-11T04:10:39.9830" />
+  <exportedFile url="\Portal\SlxClient\Services\Sage.Platform.NamedQueries.INamedQueryLookupService.service.xml" timeStamp="2010-08-11T04:10:39.9830" />
+  <exportedFile url="\Portal\SlxClient\Services\Sage.Platform.Security.IFieldLevelSecurityService.service.xml" timeStamp="2010-08-11T04:10:39.9830" />
+  <exportedFile url="\Portal\SlxClient\Services\Sage.Platform.Security.IRoleSecurityService.service.xml" timeStamp="2010-08-11T04:10:39.9970" />
+  <exportedFile url="\Portal\SlxClient\Services\Sage.Platform.Security.IUserService.service.xml" timeStamp="2010-08-11T04:10:39.9830" />
+  <exportedFile url="\Portal\SlxClient\Services\Sage.SalesLogix.Client.GroupBuilder.IGroupContextService.service.xml" timeStamp="2010-08-11T04:10:39.9830" />
+  <exportedFile url="\Portal\SlxClient\Services\Sage.SalesLogix.PickLists.IPickListService.service.xml" timeStamp="2010-08-11T04:10:39.9970" />
+  <exportedFile url="\Portal\SlxClient\Services\Sage.SalesLogix.Security.IUserManagementService.service.xml" timeStamp="2010-08-11T04:10:39.9970" />
+</exportedFiles>

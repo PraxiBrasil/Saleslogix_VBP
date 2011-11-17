@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\AddMember.method.xml" timeStamp="2010-08-11T04:10:25.6530" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\AddMemberWithSecurityProfile.method.xml" timeStamp="2010-08-11T04:10:25.8570" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\AddToTeam.method.xml" timeStamp="2010-08-11T04:10:25.6870" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\CanDeleteDepartment.method.xml" timeStamp="2010-08-11T04:10:25.6870" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\ContainsMember.method.xml" timeStamp="2010-08-11T04:10:25.6700" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\Created.filter.xml" timeStamp="2010-08-11T04:10:25.7800" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\DeleteDepartment.method.xml" timeStamp="2010-08-11T04:10:25.6700" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\Department.DEPARTMENTVIEW.entity.xml" timeStamp="2010-08-11T04:10:25.7170" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\Department.filter.xml" timeStamp="2010-08-11T04:10:25.8100" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\GetMembers.method.xml" timeStamp="2010-08-11T04:10:25.7330" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\GetTeamMembership.method.xml" timeStamp="2010-08-11T04:10:25.7470" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\LastModified.filter.xml" timeStamp="2010-08-11T04:10:25.7630" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:25.8570" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:25.8730" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:25.8100" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:25.7630" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:25.8570" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:25.8570" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\OnCreate.method.xml" timeStamp="2010-08-11T04:10:25.8570" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\RemoveFromTeam.method.xml" timeStamp="2010-08-11T04:10:25.8730" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\RemoveMember.method.xml" timeStamp="2010-08-11T04:10:25.8730" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\UpdateSecurityProfile.method.xml" timeStamp="2010-08-11T04:10:25.8870" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\ValidateDepartmentDetails.method.xml" timeStamp="2010-08-11T04:10:25.8730" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\" />
+</exportedFiles>

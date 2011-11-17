@@ -1,0 +1,22 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ImportHistory\AddHistoryItem.method.xml" timeStamp="2010-08-11T04:10:18.9670" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ImportHistory\CreateDate.filter.xml" timeStamp="2010-08-11T04:10:18.9830" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ImportHistory\Description.filter.xml" timeStamp="2010-08-11T04:10:18.9830" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ImportHistory\DuplicateCount.filter.xml" timeStamp="2010-08-11T04:10:19.0130" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ImportHistory\ErrorCount.filter.xml" timeStamp="2010-08-11T04:10:18.9970" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ImportHistory\GetHistoryItems.method.xml" timeStamp="2010-08-11T04:10:18.9970" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ImportHistory\GetSourceRawData.method.xml" timeStamp="2010-08-11T04:10:19.0130" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ImportHistory\ImportedCount.filter.xml" timeStamp="2010-08-11T04:10:18.9830" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ImportHistory\ImportHistory.IMPORTHISTORY.entity.xml" timeStamp="2010-08-11T04:10:19.0130" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ImportHistory\ImportNumber.filter.xml" timeStamp="2010-08-11T04:10:19.0300" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ImportHistory\MergeCount.filter.xml" timeStamp="2010-08-11T04:10:19.0300" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ImportHistory\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:19.0130" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ImportHistory\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:19.0300" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ImportHistory\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:19.0130" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ImportHistory\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:19.0130" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ImportHistory\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:19.0430" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ImportHistory\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:19.0430" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ImportHistory\OnCreate.method.xml" timeStamp="2010-08-11T04:10:19.0430" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ImportHistory\Status.filter.xml" timeStamp="2010-08-11T04:10:19.0600" />
+</exportedFiles>

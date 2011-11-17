@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Return\QuickForms\InsertReturn.main.quickform.xml" timeStamp="2010-08-11T04:10:23.2170" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Return\QuickForms\InsertReturn.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Return\QuickForms\InsertReturn.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:23.2330" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Return\QuickForms\ReturnComments.main.quickform.xml" timeStamp="2010-08-11T04:10:23.2170" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Return\QuickForms\ReturnComments.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Return\QuickForms\ReturnComments.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:23.2330" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Return\QuickForms\ReturnDefects.main.quickform.xml" timeStamp="2010-08-11T04:10:23.2470" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Return\QuickForms\ReturnDefects.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Return\QuickForms\ReturnDefects.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:23.2330" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Return\QuickForms\ReturnDetails.main.quickform.xml" timeStamp="2010-08-11T04:10:23.2000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Return\QuickForms\ReturnDetails.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Return\QuickForms\ReturnDetails.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:23.2630" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Return\QuickForms\ReturnExtendedDetails.main.quickform.xml" timeStamp="2010-08-11T04:10:23.2630" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Return\QuickForms\ReturnExtendedDetails.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Return\QuickForms\ReturnExtendedDetails.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:23.2470" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Return\QuickForms\ReturnShipToDetail.main.quickform.xml" timeStamp="2010-08-11T04:10:23.2330" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Return\QuickForms\ReturnShipToDetail.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Return\QuickForms\ReturnShipToDetail.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:23.2470" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Return\QuickForms\ReturnSummary.main.quickform.xml" timeStamp="2010-08-11T04:10:23.2470" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Return\QuickForms\ReturnSummary.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Return\QuickForms\ReturnSummary.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:23.2470" />
+</exportedFiles>

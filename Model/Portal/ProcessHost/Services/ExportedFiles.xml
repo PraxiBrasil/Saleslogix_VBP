@@ -1,0 +1,9 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\ProcessHost\Services\Sage.Platform.Application.Services.IUserOptionsService.service.xml" timeStamp="2010-08-11T04:10:29.6700" />
+  <exportedFile url="\Portal\ProcessHost\Services\Sage.Platform.Data.IDataService.service.xml" timeStamp="2010-08-11T04:10:29.6700" />
+  <exportedFile url="\Portal\ProcessHost\Services\Sage.Platform.Data.IHibernateConfigurationService.service.xml" timeStamp="2010-08-11T04:10:29.6870" />
+  <exportedFile url="\Portal\ProcessHost\Services\Sage.Platform.Process.Interfaces.IProcessEnumeratorService.service.xml" timeStamp="2010-08-11T04:10:29.6700" />
+  <exportedFile url="\Portal\ProcessHost\Services\Sage.Platform.Process.Interfaces.IProcessManagerService.service.xml" timeStamp="2010-08-11T04:10:29.6870" />
+  <exportedFile url="\Portal\ProcessHost\Services\Sage.Platform.Security.IUserService.service.xml" timeStamp="2010-08-11T04:10:29.6870" />
+</exportedFiles>

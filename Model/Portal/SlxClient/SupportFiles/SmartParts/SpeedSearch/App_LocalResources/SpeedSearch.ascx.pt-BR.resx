@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="SpeedSearch_Button_Search.Text" xml:space="preserve">
+    <value>Buscar</value>
+  </data>
+  <data name="SpeedSearch_Description" xml:space="preserve">
+    <value>Busca Rápida</value>
+  </data>
+  <data name="SpeedSearch_Filter_Like" xml:space="preserve">
+    <value>Como</value>
+  </data>
+  <data name="SpeedSearch_Filter_Within" xml:space="preserve">
+    <value>Dentro De</value>
+  </data>
+  <data name="SpeedSearch_Grid_Header_Document.HeaderText" xml:space="preserve">
+    <value>Documento</value>
+  </data>
+  <data name="SpeedSearch_Grid_Header_Score.HeaderText" xml:space="preserve">
+    <value>Intervalo</value>
+  </data>
+  <data name="SpeedSearch_Grid_Header_Source.HeaderText" xml:space="preserve">
+    <value>Origem</value>
+  </data>
+  <data name="SpeedSearch_href_Advanced.Text" xml:space="preserve">
+    <value>Avançado</value>
+  </data>
+  <data name="SpeedSearch_href_Standard.Text" xml:space="preserve">
+    <value>Padrão</value>
+  </data>
+  <data name="SpeedSearch_Image_Reset.AlternateText" xml:space="preserve">
+    <value>Reiniciar</value>
+  </data>
+  <data name="SpeedSearch_Image_ResultUsed.AlternateText" xml:space="preserve">
+    <value>Marcar este elemento como útil.</value>
+  </data>
+  <data name="SpeedSearch_Label_FilterBy.Text" xml:space="preserve">
+    <value>Filtrar por</value>
+  </data>
+  <data name="SpeedSearch_Label_FrequentlyUsed" xml:space="preserve">
+    <value>Usado Frequentemente</value>
+  </data>
+  <data name="SpeedSearch_Label_Keywords.Text" xml:space="preserve">
+    <value>Palavra-Chave:</value>
+  </data>
+  <data name="SpeedSearch_Label_Lookin.Text" xml:space="preserve">
+    <value>Buscar Em</value>
+  </data>
+  <data name="SpeedSearch_Label_MaxResults.Text" xml:space="preserve">
+    <value>Resultados Máximos</value>
+  </data>
+  <data name="SpeedSearch_Label_NoResults" xml:space="preserve">
+    <value>Sua busca não retornou nenhum resultado.</value>
+  </data>
+  <data name="SpeedSearch_Label_PagingLabel" xml:space="preserve">
+    <value>Registros {0} - {1} de {2}</value>
+  </data>
+  <data name="SpeedSearch_Label_SearchMethod.Text" xml:space="preserve">
+    <value>Método de Busca</value>
+  </data>
+  <data name="SpeedSearch_ListItem_MaxResults_100.Text" xml:space="preserve">
+    <value>Top 100</value>
+  </data>
+  <data name="SpeedSearch_ListItem_MaxResults_25.Text" xml:space="preserve">
+    <value>Top 25</value>
+  </data>
+  <data name="SpeedSearch_ListItem_MaxResults_500.Text" xml:space="preserve">
+    <value>Top 500</value>
+  </data>
+  <data name="SpeedSearch_ListItem_MaxResults_All.Text" xml:space="preserve">
+    <value>Todos</value>
+  </data>
+  <data name="SpeedSearch_ListItem_SearchFlags_Root.Text" xml:space="preserve">
+    <value>Root</value>
+  </data>
+  <data name="SpeedSearch_ListItem_SearchFlags_Sounds.Text" xml:space="preserve">
+    <value>Semelhante como</value>
+  </data>
+  <data name="SpeedSearch_ListItem_SearchFlags_Thes.Text" xml:space="preserve">
+    <value>Dicionário</value>
+  </data>
+  <data name="SpeedSearch_ListItem_SearchType_And.Text" xml:space="preserve">
+    <value>Buscar todas as palavras (E)</value>
+  </data>
+  <data name="SpeedSearch_ListItem_SearchType_Bool.Text" xml:space="preserve">
+    <value>Booleano (E, OU, NÃO)</value>
+  </data>
+  <data name="SpeedSearch_ListItem_SearchType_Natural.Text" xml:space="preserve">
+    <value>Linguagem Natural</value>
+  </data>
+  <data name="SpeedSearch_ListItem_SearchType_Or.Text" xml:space="preserve">
+    <value>Buscar em qualquer palavra (OU)</value>
+  </data>
+  <data name="SpeedSearch_ListItem_SearchType_Phrase.Text" xml:space="preserve">
+    <value>Buscar a frase exata</value>
+  </data>
+  <data name="SpeedSearch_Paging_Button_First.AlternateText" xml:space="preserve">
+    <value>Primeira Página
+</value>
+  </data>
+  <data name="SpeedSearch_Paging_Button_Last.AlternateText" xml:space="preserve">
+    <value>Última Página</value>
+  </data>
+  <data name="SpeedSearch_Paging_Button_Next.AlternateText" xml:space="preserve">
+    <value>Próxima Página</value>
+  </data>
+  <data name="SpeedSearch_Paging_Button_Prev.AlternateText" xml:space="preserve">
+    <value>Página Anterior</value>
+  </data>
+  <data name="SpeedSearch_Preview_Link" xml:space="preserve">
+    <value>Pré-Visualização</value>
+  </data>
+  <data name="SpeedSearch_Result_NoAccess" xml:space="preserve">
+    <value>Acesso negado.</value>
+  </data>
+  <data name="SpeedSearch_Result_NoLongerExists" xml:space="preserve">
+    <value>{0}: {1} já não existe ou você não tem acesso.</value>
+  </data>
+  <data name="SpeedSearch_ReturnResult_Link" xml:space="preserve">
+    <value>Resultado de Retorno</value>
+  </data>
+  <data name="SpeedSearch_Title" xml:space="preserve">
+    <value>Busca Rápida</value>
+  </data>
+</root>

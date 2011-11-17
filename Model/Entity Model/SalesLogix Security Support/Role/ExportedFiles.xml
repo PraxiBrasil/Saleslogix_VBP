@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Role\CreateUser.filter.xml" timeStamp="2010-08-11T04:10:26.4030" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Role\Description.filter.xml" timeStamp="2010-08-11T04:10:26.4030" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Role\Name.filter.xml" timeStamp="2010-08-11T04:10:26.4830" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Role\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:26.4200" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Role\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:26.4200" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Role\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:26.4500" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Role\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:26.4670" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Role\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:26.4370" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Role\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:26.4830" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Role\OnCreate.method.xml" timeStamp="2010-08-11T04:10:26.4370" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Role\Role.ROLE.entity.xml" timeStamp="2010-08-11T04:10:26.6230" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Role\QuickForms\" />
+</exportedFiles>

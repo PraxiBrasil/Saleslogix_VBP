@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\BillToShipTo.lstbxBillingAddress_OnChange.method.xml" timeStamp="2010-08-11T04:10:23.7170" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\BillToShipTo.lstbxShippingAddress_OnChange.method.xml" timeStamp="2010-08-11T04:10:23.7470" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\BillToShipTo.lueNameBilling_OnChange.method.xml" timeStamp="2010-08-11T04:10:23.7630" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\BillToShipTo.lueNameShipping_OnChange.method.xml" timeStamp="2010-08-11T04:10:23.7000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\BillToShipTo.main.quickform.xml" timeStamp="2010-08-11T04:10:23.7630" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\BillToShipTo.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\BillToShipTo.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:23.6230" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\EditSalesOrderDetail.main.quickform.xml" timeStamp="2010-08-11T04:10:23.6370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\EditSalesOrderDetail.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\EditSalesOrderDetail.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:23.6700" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\InsertSalesOrder.main.quickform.xml" timeStamp="2010-08-11T04:10:23.8570" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\InsertSalesOrder.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\InsertSalesOrder.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:23.8100" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\Sage.SnippetLibrary.CSharp.@.47c8ef52-3c79-4176-b716-81d347074e5a.codesnippet.cs" timeStamp="2010-08-11T04:10:23.8870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\Sage.SnippetLibrary.CSharp.@.5cef2b4c-eea5-4e47-ba23-613f63e5fde0.codesnippet.cs" timeStamp="2010-08-11T04:10:23.9030" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\Sage.SnippetLibrary.CSharp.@.5d1e2c90-426a-49a8-9553-d42c94664968.codesnippet.cs" timeStamp="2010-08-11T04:10:23.8570" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\Sage.SnippetLibrary.CSharp.@.f61e93d0-5d8b-4141-9e40-e42c37535573.codesnippet.cs" timeStamp="2010-08-11T04:10:23.9370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\SalesOrderDetails.main.quickform.xml" timeStamp="2010-08-11T04:10:23.8730" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\SalesOrderDetails.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\SalesOrderDetails.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:23.9500" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\SalesOrderItems.main.quickform.xml" timeStamp="2010-08-11T04:10:23.9830" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\SalesOrderItems.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\SalesOrderItems.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:23.9670" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\SalesOrderSummaryView.main.quickform.xml" timeStamp="2010-08-11T04:10:24.0130" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\SalesOrderSummaryView.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\SalesOrder\QuickForms\SalesOrderSummaryView.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:23.9500" />
+</exportedFiles>

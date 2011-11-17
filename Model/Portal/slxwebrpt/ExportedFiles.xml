@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\slxwebrpt\ContextMenuItems.order.xml" timeStamp="2010-08-11T04:10:48.1870" />
+  <exportedFile url="\Portal\slxwebrpt\MenuItems.order.xml" timeStamp="2010-08-11T04:10:48.1700" />
+  <exportedFile url="\Portal\slxwebrpt\Modules.order.xml" timeStamp="2010-08-11T04:10:48.1700" />
+  <exportedFile url="\Portal\slxwebrpt\NavigationGroups.order.xml" timeStamp="2010-08-11T04:10:48.1870" />
+  <exportedFile url="\Portal\slxwebrpt\Services.order.xml" timeStamp="2010-08-11T04:10:48.1870" />
+  <exportedFile url="\Portal\slxwebrpt\slxwebrpt.portal.xml" timeStamp="2010-08-11T04:10:48.1870" />
+  <exportedFile url="\Portal\slxwebrpt\slxwebrpt.portal.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:44.0000" />
+  <exportedFile url="\Portal\slxwebrpt\slxwebrpt.portal.xml.resx" timeStamp="2010-08-11T04:10:48.1870" />
+  <exportedFile url="\Portal\slxwebrpt\SupportFiles.def.xml" timeStamp="2010-08-11T04:10:48.2000" />
+  <exportedFile url="\Portal\slxwebrpt\Tasklets.order.xml" timeStamp="2010-08-11T04:10:48.2000" />
+  <exportedFile url="\Portal\slxwebrpt\Deployment\" />
+  <exportedFile url="\Portal\slxwebrpt\Services\" />
+  <exportedFile url="\Portal\slxwebrpt\SupportFiles\" />
+</exportedFiles>

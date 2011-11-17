@@ -1,0 +1,22 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Product\Created.filter.xml" timeStamp="2010-08-11T04:10:22.7170" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Product\Family.filter.xml" timeStamp="2010-08-11T04:10:22.6870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Product\GetDefaultPrice.method.xml" timeStamp="2010-08-11T04:10:22.7330" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Product\LastModified.filter.xml" timeStamp="2010-08-11T04:10:22.7330" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Product\ModifiedBy.filter.xml" timeStamp="2010-08-11T04:10:22.6870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Product\Name.filter.xml" timeStamp="2010-08-11T04:10:22.7470" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Product\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:22.7470" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Product\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:22.7330" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Product\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:22.7330" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Product\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:22.7470" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Product\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:22.7630" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Product\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:22.7630" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Product\OnCreate.method.xml" timeStamp="2010-08-11T04:10:22.7470" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Product\Price.filter.xml" timeStamp="2010-08-11T04:10:22.7630" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Product\PriceLevel.filter.xml" timeStamp="2010-08-11T04:10:22.7470" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Product\Product.PRODUCT.entity.xml" timeStamp="2010-08-11T04:10:22.7800" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Product\ProductCount.filter.xml" timeStamp="2010-08-11T04:10:22.7800" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Product\Status.filter.xml" timeStamp="2010-08-11T04:10:22.7800" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Product\QuickForms\" />
+</exportedFiles>

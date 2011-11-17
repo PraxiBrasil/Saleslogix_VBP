@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\EXCHANGERATE\ExchangeRate.EXCHANGERATE.entity.xml" timeStamp="2010-08-11T04:10:18.7930" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\EXCHANGERATE\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:18.8100" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\EXCHANGERATE\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:18.8100" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\EXCHANGERATE\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:18.8100" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\EXCHANGERATE\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:18.8570" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\EXCHANGERATE\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:18.8730" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\EXCHANGERATE\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:18.8570" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\EXCHANGERATE\OnCreate.method.xml" timeStamp="2010-08-11T04:10:18.8730" />
+</exportedFiles>

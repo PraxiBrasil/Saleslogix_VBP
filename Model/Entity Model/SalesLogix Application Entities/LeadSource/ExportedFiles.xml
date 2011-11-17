@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LeadSource\LeadSource.LEADSOURCE.entity.xml" timeStamp="2010-08-11T04:10:19.9670" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LeadSource\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:19.9200" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LeadSource\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:19.9370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LeadSource\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:19.9200" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LeadSource\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:19.9370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LeadSource\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:19.9030" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LeadSource\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:19.9370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LeadSource\OnCreate.method.xml" timeStamp="2010-08-11T04:10:19.9370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LeadSource\SourceDate.filter.xml" timeStamp="2010-08-11T04:10:19.9370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LeadSource\Status.filter.xml" timeStamp="2010-08-11T04:10:19.9370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LeadSource\Type.filter.xml" timeStamp="2010-08-11T04:10:19.9500" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LeadSource\QuickForms\" />
+</exportedFiles>

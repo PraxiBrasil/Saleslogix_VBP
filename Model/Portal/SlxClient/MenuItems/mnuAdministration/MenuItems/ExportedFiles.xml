@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxClient\MenuItems\mnuAdministration\MenuItems\new_competitor\" />
+  <exportedFile url="\Portal\SlxClient\MenuItems\mnuAdministration\MenuItems\new_department\" />
+  <exportedFile url="\Portal\SlxClient\MenuItems\mnuAdministration\MenuItems\new_lead_source\" />
+  <exportedFile url="\Portal\SlxClient\MenuItems\mnuAdministration\MenuItems\new_literature_item\" />
+  <exportedFile url="\Portal\SlxClient\MenuItems\mnuAdministration\MenuItems\new_package\" />
+  <exportedFile url="\Portal\SlxClient\MenuItems\mnuAdministration\MenuItems\new_product\" />
+  <exportedFile url="\Portal\SlxClient\MenuItems\mnuAdministration\MenuItems\new_role\" />
+  <exportedFile url="\Portal\SlxClient\MenuItems\mnuAdministration\MenuItems\new_team\" />
+  <exportedFile url="\Portal\SlxClient\MenuItems\mnuAdministration\MenuItems\new_user\" />
+</exportedFiles>

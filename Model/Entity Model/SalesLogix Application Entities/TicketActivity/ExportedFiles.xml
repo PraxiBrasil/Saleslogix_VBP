@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\TicketActivity\AddTicketActivity.method.xml" timeStamp="2010-08-11T04:10:24.9970" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\TicketActivity\AddTicketActivityCommentsTimeStamp.method.xml" timeStamp="2010-08-11T04:10:24.9670" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\TicketActivity\AddTicketActivityEx.method.xml" timeStamp="2010-08-11T04:10:24.9830" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\TicketActivity\CompleteTicketActivity.method.xml" timeStamp="2010-08-11T04:10:24.9830" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\TicketActivity\DoTicketActivityCalculations.method.xml" timeStamp="2010-08-11T04:10:24.9830" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\TicketActivity\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:24.9970" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\TicketActivity\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:24.9970" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\TicketActivity\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:24.9970" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\TicketActivity\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:24.9970" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\TicketActivity\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:24.9970" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\TicketActivity\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:24.9970" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\TicketActivity\OnCreate.method.xml" timeStamp="2010-08-11T04:10:25.0430" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\TicketActivity\TicketActivity.TICKETACTIVITY.entity.xml" timeStamp="2010-08-11T04:10:25.0300" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\TicketActivity\QuickForms\" />
+</exportedFiles>

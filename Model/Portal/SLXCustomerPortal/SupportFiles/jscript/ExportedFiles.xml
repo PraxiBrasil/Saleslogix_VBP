@@ -1,0 +1,22 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\FusionCharts.js" timeStamp="2010-08-11T04:11:41.9500" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\LitRequest.js" timeStamp="2010-08-11T04:10:47.6530" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\SageMailMerge.jsb" timeStamp="2010-08-11T04:21:48.7930" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\SageMailMergeLoader.jsb" timeStamp="2010-08-11T04:21:49.4830" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\SagePlatformScript.jsb" timeStamp="2010-08-11T04:21:50.1700" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\SageSalesLogixCommon.jsb" timeStamp="2010-08-11T04:21:51.7930" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\SageSalesLogixWebControls.jsb" timeStamp="2010-08-11T04:21:50.9370" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\SLXDataGrid.js" timeStamp="2010-08-11T04:11:38.9830" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\smartpartdashboardworkspace.js" timeStamp="2010-08-11T04:11:42.0600" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\testcomplete.js" timeStamp="2010-08-11T04:11:41.9970" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\timeobjs.js" timeStamp="2010-08-11T04:10:47.6870" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\timezone.js" timeStamp="2010-08-11T04:11:42.0300" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\XMLSupport.js" timeStamp="2010-08-11T04:11:41.9670" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\sage-common\" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\sage-controls\" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\sage-mailmerge\" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\sage-platform\" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\timeline\" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\YUI\" />
+</exportedFiles>

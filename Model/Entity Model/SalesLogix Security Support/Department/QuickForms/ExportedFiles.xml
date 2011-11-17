@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\DepartmentDetails.main.quickform.xml" timeStamp="2010-08-11T04:10:25.9670" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\DepartmentDetails.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\DepartmentDetails.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:25.9030" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\DepartmentDetails.OnLoad1.method.xml" timeStamp="2010-08-11T04:10:25.8870" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\DepartmentDetails.SaveDepartmentStep.method.xml" timeStamp="2010-08-11T04:10:25.9370" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\DepartmentMembers.lueAddDepartmentMember_OnChange.method.xml" timeStamp="2010-08-11T04:10:25.9830" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\DepartmentMembers.main.quickform.xml" timeStamp="2010-08-11T04:10:25.9970" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\DepartmentMembers.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\DepartmentMembers.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:25.9670" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\DepartmentTeams.lueTeams_OnChange.method.xml" timeStamp="2010-08-11T04:10:25.9670" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\DepartmentTeams.main.quickform.xml" timeStamp="2010-08-11T04:10:25.9670" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\DepartmentTeams.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\DepartmentTeams.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:25.9970" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\InsertDepartment.main.quickform.xml" timeStamp="2010-08-11T04:10:26.0300" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\InsertDepartment.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\InsertDepartment.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:26.0770" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\InsertDepartment.OnLoad1.method.xml" timeStamp="2010-08-11T04:10:26.0300" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\InsertDepartment.SaveButton_OnClick.method.xml" timeStamp="2010-08-11T04:10:26.1070" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\Sage.SnippetLibrary.CSharp.@.10ae2348-4347-427e-9e4d-fd326816da76.codesnippet.cs" timeStamp="2010-08-11T04:10:26.0900" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\Sage.SnippetLibrary.CSharp.@.17c20965-1101-4d3d-8421-d68f37563ed8.codesnippet.cs" timeStamp="2010-08-11T04:10:26.0600" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\Sage.SnippetLibrary.CSharp.@.3ba526be-c0da-4cc2-9068-0213c647acf8.codesnippet.cs" timeStamp="2010-08-11T04:10:26.0900" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\Sage.SnippetLibrary.CSharp.@.50773d47-cf3c-48e6-93bb-db3bc954ac07.codesnippet.cs" timeStamp="2010-08-11T04:10:26.0770" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\Sage.SnippetLibrary.CSharp.@.65f090a8-6341-4d99-9709-aac7eb10b3f1.codesnippet.cs" timeStamp="2010-08-11T04:10:26.1230" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Department\QuickForms\Sage.SnippetLibrary.CSharp.@.b79c6b1f-5ac5-44c6-a876-b392ea160796.codesnippet.cs" timeStamp="2010-08-11T04:10:26.0900" />
+</exportedFiles>

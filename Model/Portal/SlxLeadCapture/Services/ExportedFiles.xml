@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxLeadCapture\Services\Sage.Platform.Application.Services.IUserOptionsService.service.xml" timeStamp="2010-08-11T04:10:47.9500" />
+  <exportedFile url="\Portal\SlxLeadCapture\Services\Sage.Platform.Data.IDataService.service.xml" timeStamp="2010-08-11T04:10:47.9670" />
+  <exportedFile url="\Portal\SlxLeadCapture\Services\Sage.Platform.Data.IHibernateConfigurationService.service.xml" timeStamp="2010-08-11T04:10:47.9670" />
+  <exportedFile url="\Portal\SlxLeadCapture\Services\Sage.Platform.Security.IUserService.service.xml" timeStamp="2010-08-11T04:10:47.9830" />
+  <exportedFile url="\Portal\SlxLeadCapture\Services\Sage.SalesLogix.PickLists.IPickListService.service.xml" timeStamp="2010-08-11T04:10:47.9970" />
+</exportedFiles>

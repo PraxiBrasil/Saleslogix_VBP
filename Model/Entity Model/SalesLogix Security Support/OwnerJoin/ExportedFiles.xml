@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Security Support\OwnerJoin\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:26.2470" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\OwnerJoin\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:26.3400" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\OwnerJoin\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:26.2630" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\OwnerJoin\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:26.3400" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\OwnerJoin\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:26.3730" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\OwnerJoin\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:26.2800" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\OwnerJoin\OnCreate.method.xml" timeStamp="2010-08-11T04:10:26.2930" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\OwnerJoin\OwnerJoin.SECCODEJOINS.entity.xml" timeStamp="2010-08-11T04:10:26.4370" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\OwnerJoin\RemoveFromTeam.method.xml" timeStamp="2010-08-11T04:10:26.3870" />
+</exportedFiles>

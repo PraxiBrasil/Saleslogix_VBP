@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\Process Orchestration Support\ProcessTypeInformation\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:13.5900" />
+  <exportedFile url="\Entity Model\Process Orchestration Support\ProcessTypeInformation\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:13.5900" />
+  <exportedFile url="\Entity Model\Process Orchestration Support\ProcessTypeInformation\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:13.6070" />
+  <exportedFile url="\Entity Model\Process Orchestration Support\ProcessTypeInformation\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:13.6070" />
+  <exportedFile url="\Entity Model\Process Orchestration Support\ProcessTypeInformation\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:13.5900" />
+  <exportedFile url="\Entity Model\Process Orchestration Support\ProcessTypeInformation\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:13.5900" />
+  <exportedFile url="\Entity Model\Process Orchestration Support\ProcessTypeInformation\OnCreate.method.xml" timeStamp="2010-08-11T04:10:13.6070" />
+  <exportedFile url="\Entity Model\Process Orchestration Support\ProcessTypeInformation\ProcessTypeInformation.PROCESSTYPEINFO.entity.xml" timeStamp="2010-08-11T04:10:13.6230" />
+</exportedFiles>

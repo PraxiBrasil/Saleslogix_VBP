@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxClient\Modules\Sage.Platform.WebPortal.ServiceHostsModule.module.xml" timeStamp="2010-08-11T04:10:38.9500" />
+  <exportedFile url="\Portal\SlxClient\Modules\Sage.SalesLogix.Client.GroupBuilder.Modules.GroupContextModule.module.xml" timeStamp="2010-08-11T04:10:39.0130" />
+  <exportedFile url="\Portal\SlxClient\Modules\Sage.SalesLogix.Client.ImportHistory.Modules.ImportHistoryModule.module.xml" timeStamp="2010-08-11T04:10:39.0130" />
+  <exportedFile url="\Portal\SlxClient\Modules\Sage.SalesLogix.Web.Modules.GlobalDialogModule.module.xml" timeStamp="2010-08-11T04:10:39.0130" />
+  <exportedFile url="\Portal\SlxClient\Modules\Sage.SalesLogix.Web.Modules.RemindersToolbarModule.module.xml" timeStamp="2010-08-11T04:10:38.9970" />
+  <exportedFile url="\Portal\SlxClient\Modules\Sage.SalesLogix.Web.Modules.WebViewerModule.module.xml" timeStamp="2010-08-11T04:10:39.0130" />
+  <exportedFile url="\Portal\SlxClient\Modules\Sage.SalesLogix.Web.Modules.WorkSurveyModule.module.xml" timeStamp="2010-08-11T04:10:39.0130" />
+  <exportedFile url="\Portal\SlxClient\Modules\Sage.SalesLogix.Web.ProjectsModule.module.xml" timeStamp="2010-08-11T04:10:39.0300" />
+</exportedFiles>

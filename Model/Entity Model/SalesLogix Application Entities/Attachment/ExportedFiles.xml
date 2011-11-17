@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Attachment\Attachment.ATTACHMENT.entity.xml" timeStamp="2010-08-11T04:10:16.9370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Attachment\InsertFileAttachment.method.xml" timeStamp="2010-08-11T04:10:16.9030" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Attachment\InsertURLAttachment.method.xml" timeStamp="2010-08-11T04:10:16.9030" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Attachment\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:16.9200" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Attachment\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:16.9200" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Attachment\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:16.9200" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Attachment\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:16.9200" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Attachment\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:16.9370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Attachment\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:16.9370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Attachment\OnCreate.method.xml" timeStamp="2010-08-11T04:10:16.9370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Attachment\UpdateFileAttachment.method.xml" timeStamp="2010-08-11T04:10:16.9370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Attachment\UpdateURLAttachment.method.xml" timeStamp="2010-08-11T04:10:16.9500" />
+</exportedFiles>

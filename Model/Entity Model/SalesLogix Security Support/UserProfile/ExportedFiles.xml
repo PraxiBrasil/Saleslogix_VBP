@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Security Support\UserProfile\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:29.0130" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\UserProfile\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:29.0300" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\UserProfile\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:29.0300" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\UserProfile\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:29.1230" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\UserProfile\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:29.0430" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\UserProfile\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:29.0430" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\UserProfile\OnCreate.method.xml" timeStamp="2010-08-11T04:10:29.0600" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\UserProfile\UserProfile.User.USERPROFILE.entity.xml" timeStamp="2010-08-11T04:10:29.2000" />
+</exportedFiles>

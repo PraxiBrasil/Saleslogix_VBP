@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="lblEmailOppAccount.Caption" xml:space="preserve">
+    <value>Conta:</value>
+  </data>
+  <data name="EmailOppAcctMgr.Caption" xml:space="preserve">
+    <value>Gerente Conta</value>
+  </data>
+  <data name="EmailOppActivitySummary.Caption" xml:space="preserve">
+    <value>Aberto {0} dias em {1}, {2} dias desde a última atividade</value>
+  </data>
+  <data name="EmailOppCloseProb.Caption" xml:space="preserve">
+    <value>Prob. de Fechamento</value>
+  </data>
+  <data name="EmailOppComments.Caption" xml:space="preserve">
+    <value>Comentários</value>
+  </data>
+  <data name="EmailOppCompetitors.Caption" xml:space="preserve">
+    <value>Concorrentes</value>
+  </data>
+  <data name="EmailOppCompReplaced.Caption" xml:space="preserve">
+    <value>Concorrente Substituído:</value>
+  </data>
+  <data name="EmailOppContacts.Caption" xml:space="preserve">
+    <value>Contatos</value>
+  </data>
+  <data name="lblEmailOppDesc.Caption" xml:space="preserve">
+    <value>Descrição</value>
+  </data>
+  <data name="EmailOppEstClose.Caption" xml:space="preserve">
+    <value>Fechar estimado:</value>
+  </data>
+  <data name="lblEmailInfo.Caption" xml:space="preserve">
+    <value>----------Informação da Oportunidade----------</value>
+  </data>
+  <data name="lblNone.Caption" xml:space="preserve">
+    <value>Nenhum</value>
+  </data>
+  <data name="EmailOppPotential.Caption" xml:space="preserve">
+    <value>Potencial de Vendas</value>
+  </data>
+  <data name="EmailOppProducts.Caption" xml:space="preserve">
+    <value>Produtos</value>
+  </data>
+  <data name="EmailOppReasonLost.Caption" xml:space="preserve">
+    <value>Razão Perda:     {0}</value>
+  </data>
+  <data name="EmailOppReasonWon.Caption" xml:space="preserve">
+    <value>Razão Ganha:     {0}</value>
+  </data>
+  <data name="EmailOppReseller.Caption" xml:space="preserve">
+    <value>Distribuidor:</value>
+  </data>
+  <data name="EmailOppStageSummary.Caption" xml:space="preserve">
+    <value>Atualmente na {0} etapa</value>
+  </data>
+  <data name="EmailOppSummary.Caption" xml:space="preserve">
+    <value>Sumário</value>
+  </data>
+  <data name="lblEmailOppType.Caption" xml:space="preserve">
+    <value>Tipo: {0}</value>
+  </data>
+  <data name="EmailOppValue.Caption" xml:space="preserve">
+    <value>Valor</value>
+  </data>
+  <data name="EmailOppWeighted.Caption" xml:space="preserve">
+    <value>Ponderado:</value>
+  </data>
+  <data name="EmailOppWonLostSummary.Caption" xml:space="preserve">
+    <value>Data de Fechamento {0}; Aberto por {1} dias</value>
+  </data>
+  <data name="lblTitle.Caption" xml:space="preserve">
+    <value>Snapshot da Oportunidade</value>
+  </data>
+  <data name="chkLockRate.Caption" xml:space="preserve">
+    <value>Bloquear na taxa desta Oportunidade</value>
+  </data>
+  <data name="dtpExchangeRateDate.Caption" xml:space="preserve">
+    <value>Data da Taxa de Cambio:</value>
+  </data>
+  <data name="EmailOppCreateDate.Caption" xml:space="preserve">
+    <value>Data de Criação</value>
+  </data>
+  <data name="EmailOppSource.Caption" xml:space="preserve">
+    <value>Origem: {0}</value>
+  </data>
+  <data name="EmailOppStatus.Caption" xml:space="preserve">
+    <value>Status: {0}</value>
+  </data>
+  <data name="lblBaseHeader.Caption" xml:space="preserve">
+    <value>Base</value>
+  </data>
+  <data name="lblMyCurrencyHeader.Caption" xml:space="preserve">
+    <value>Minha Moeda</value>
+  </data>
+  <data name="lblPotentialAmount.Caption" xml:space="preserve">
+    <value>Qtde Atual</value>
+  </data>
+  <data name="lblOpportunityHeader.Caption" xml:space="preserve">
+    <value>Oportunidade</value>
+  </data>
+  <data name="lblSource.Caption" xml:space="preserve">
+    <value>Origem  </value>
+  </data>
+  <data name="lblSummary.Caption" xml:space="preserve">
+    <value>Aberto em {0} dias</value>
+  </data>
+  <data name="lblType.Caption" xml:space="preserve">
+    <value>Tipo - </value>
+  </data>
+  <data name="lblWeighted.Caption" xml:space="preserve">
+    <value>Ponderado</value>
+  </data>
+  <data name="lueCurrencyCode.Caption" xml:space="preserve">
+    <value>Moeda:</value>
+  </data>
+  <data name="lueCurrencyCode.Description.PropertyHeader" xml:space="preserve">
+    <value>Descrição</value>
+  </data>
+  <data name="lueCurrencyCode.Rate.PropertyHeader" xml:space="preserve">
+    <value>Taxa</value>
+  </data>
+  <data name="lueCurrencyCode.ToolTip" xml:space="preserve">
+    <value>Localizar</value>
+  </data>
+  <data name="lblExchangeRate.Caption" xml:space="preserve">
+    <value>Taxa de Cambio:</value>
+  </data>
+  <data name="lblClosedSummary.Caption" xml:space="preserve">
+    <value>Fechado em</value>
+  </data>
+  <data name="lblCompetitors.Caption" xml:space="preserve">
+    <value>Concorrente(es) - {0}</value>
+  </data>
+  <data name="lblCompetitorsReplaced.Caption" xml:space="preserve">
+    <value>Competidor(es) Substituídos(s) - {0}</value>
+  </data>
+  <data name="lblDaysOpen.Caption" xml:space="preserve">
+    <value>- Aberto por {0} dias</value>
+  </data>
+  <data name="lblOpenSalesPotential.Caption" xml:space="preserve">
+    <value>Potencial de Vendas</value>
+  </data>
+  <data name="lblReasonLost.Caption" xml:space="preserve">
+    <value>Razão Perda -</value>
+  </data>
+  <data name="lblReasonWon.Caption" xml:space="preserve">
+    <value>Razão Ganha -</value>
+  </data>
+  <data name="lblSalesProcess.Caption" xml:space="preserve">
+    <value>Atualmente na {0} etapa</value>
+  </data>
+  <data name="lblSummaryActivity.Caption" xml:space="preserve">
+    <value>- {0} dias desde a última atividade.</value>
+  </data>
+  <data name="lblSummaryHeader.Caption" xml:space="preserve">
+    <value>Sumário</value>
+  </data>
+  <data name="lueLeadSource.AbbrevDescription.PropertyHeader" xml:space="preserve">
+    <value>Descrição Abrev.</value>
+  </data>
+  <data name="lueLeadSource.Description.PropertyHeader" xml:space="preserve">
+    <value>Descrição</value>
+  </data>
+  <data name="lueLeadSource.Type.PropertyHeader" xml:space="preserve">
+    <value>Tipo</value>
+  </data>
+  <data name="Status_ClosedLost" xml:space="preserve">
+    <value>Fechada - Perdida</value>
+  </data>
+  <data name="Status_ClosedWon" xml:space="preserve">
+    <value>Fechada - Ganha</value>
+  </data>
+  <data name="Status_Open" xml:space="preserve">
+    <value>Abrir</value>
+  </data>
+  <data name="Status_Inactive" xml:space="preserve">
+    <value>Inativo</value>
+  </data>
+  <data name="lblEmailSubject.Caption" xml:space="preserve">
+    <value>Oportunidade{0} ({1})</value>
+  </data>
+  <data name="cpyCopyToEmail.Caption" xml:space="preserve">
+    <value>Copiar para o e-mail</value>
+  </data>
+  <data name="lblMyCurrencyHeader.Header" xml:space="preserve">
+    <value>Minha Moeda</value>
+  </data>
+</root>

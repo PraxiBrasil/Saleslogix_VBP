@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LeadHistory\LeadHistory.HIST_LEAD.entity.xml" timeStamp="2010-08-11T04:10:19.6370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LeadHistory\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:19.6370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LeadHistory\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:19.6530" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LeadHistory\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:19.6530" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LeadHistory\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:19.6530" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LeadHistory\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:19.6530" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LeadHistory\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:19.6530" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LeadHistory\OnCreate.method.xml" timeStamp="2010-08-11T04:10:19.6530" />
+</exportedFiles>

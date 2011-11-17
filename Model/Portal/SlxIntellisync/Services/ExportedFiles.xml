@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxIntellisync\Services\Sage.Platform.Application.Services.ITransactionManagerService.service.xml" timeStamp="2010-08-11T04:10:47.7630" />
+  <exportedFile url="\Portal\SlxIntellisync\Services\Sage.Platform.Application.Services.IUserOptionsService.service.xml" timeStamp="2010-08-11T04:10:47.7800" />
+  <exportedFile url="\Portal\SlxIntellisync\Services\Sage.Platform.Data.IDataService.service.xml" timeStamp="2010-08-11T04:10:47.7800" />
+  <exportedFile url="\Portal\SlxIntellisync\Services\Sage.Platform.Data.IHibernateConfigurationService.service.xml" timeStamp="2010-08-11T04:10:47.7930" />
+  <exportedFile url="\Portal\SlxIntellisync\Services\Sage.Platform.Security.IUserService.service.xml" timeStamp="2010-08-11T04:10:47.7930" />
+  <exportedFile url="\Portal\SlxIntellisync\Services\Sage.Platform.WebPortal.Services.IEntityStateService.service.xml" timeStamp="2010-08-11T04:10:47.8100" />
+  <exportedFile url="\Portal\SlxIntellisync\Services\Sage.SalesLogix.SalesLogixEntityKeyGenerator.service.xml" timeStamp="2010-08-11T04:10:47.8100" />
+</exportedFiles>

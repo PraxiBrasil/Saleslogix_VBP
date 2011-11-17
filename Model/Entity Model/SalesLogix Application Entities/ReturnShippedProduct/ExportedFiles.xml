@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ReturnShippedProduct\AssociateExistingAccountProduct.method.xml" timeStamp="2010-08-11T04:10:23.3730" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ReturnShippedProduct\AssociateNewAccountProduct.method.xml" timeStamp="2010-08-11T04:10:23.3730" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ReturnShippedProduct\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:23.3570" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ReturnShippedProduct\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:23.3730" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ReturnShippedProduct\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:23.3730" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ReturnShippedProduct\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:23.3870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ReturnShippedProduct\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:23.3870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ReturnShippedProduct\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:23.3870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ReturnShippedProduct\OnCreate.method.xml" timeStamp="2010-08-11T04:10:23.3870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ReturnShippedProduct\OnProductShippedChanged.method.xml" timeStamp="2010-08-11T04:10:23.3870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ReturnShippedProduct\ReturnShippedProduct.RMASHIPPEDPRODUCT.entity.xml" timeStamp="2010-08-11T04:10:23.4200" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ReturnShippedProduct\QuickForms\" />
+</exportedFiles>

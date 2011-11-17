@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\AddDefectCommentsTimeStamp.method.xml" timeStamp="2010-08-11T04:10:18.1530" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\AddDefectDescriptionTimeStamp.method.xml" timeStamp="2010-08-11T04:10:18.1530" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\AddDefectResolutionTimeStamp.method.xml" timeStamp="2010-08-11T04:10:18.1700" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\Area.filter.xml" timeStamp="2010-08-11T04:10:18.1530" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\AssignedTo.filter.xml" timeStamp="2010-08-11T04:10:18.1700" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\Category.filter.xml" timeStamp="2010-08-11T04:10:18.1700" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\ClosedDefectAgingAverage.filter.xml" timeStamp="2010-08-11T04:10:18.1700" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\CopyDefect.method.xml" timeStamp="2010-08-11T04:10:18.1870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\Defect.DEFECT.entity.xml" timeStamp="2010-08-11T04:10:18.1870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\DefectClosedBy.filter.xml" timeStamp="2010-08-11T04:10:18.1700" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\DefectCount.filter.xml" timeStamp="2010-08-11T04:10:18.1870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\DefectNumber.filter.xml" timeStamp="2010-08-11T04:10:18.2000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:18.1870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:18.2000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\OnAfterStatusCodeChanged.method.xml" timeStamp="2010-08-11T04:10:18.2330" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:18.2170" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\OnAssignedToChanged.method.xml" timeStamp="2010-08-11T04:10:18.2170" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\OnBeforeAddKnowledgeChanged.method.xml" timeStamp="2010-08-11T04:10:18.2170" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:18.2170" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:18.2170" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\OnBeforeStatusCodeChanged.method.xml" timeStamp="2010-08-11T04:10:18.2170" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\OnBeforeSubmitSearchChanged.method.xml" timeStamp="2010-08-11T04:10:18.2330" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:18.2330" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\OnCreate.method.xml" timeStamp="2010-08-11T04:10:18.2330" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\OpenDefectAgingAverage.filter.xml" timeStamp="2010-08-11T04:10:18.2470" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\Priority.filter.xml" timeStamp="2010-08-11T04:10:18.2630" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\Severity.filter.xml" timeStamp="2010-08-11T04:10:18.2930" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\Status.filter.xml" timeStamp="2010-08-11T04:10:18.2630" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\Subject.filter.xml" timeStamp="2010-08-11T04:10:18.2800" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\TargetVersion.filter.xml" timeStamp="2010-08-11T04:10:18.2930" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\VersionFound.filter.xml" timeStamp="2010-08-11T04:10:18.2930" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\" />
+</exportedFiles>

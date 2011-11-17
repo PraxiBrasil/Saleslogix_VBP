@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\AddActivities.method.xml" timeStamp="2010-08-11T04:10:19.1370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\AddAttachmentsContactID.method.xml" timeStamp="2010-08-11T04:10:19.1530" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\AddHistoryAndQualificationRecords.method.xml" timeStamp="2010-08-11T04:10:19.1700" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\AssignOwner.method.xml" timeStamp="2010-08-11T04:10:19.1870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\ChangeCampaignTargetEntityID.method.xml" timeStamp="2010-08-11T04:10:19.1700" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\City.filter.xml" timeStamp="2010-08-11T04:10:19.1530" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\Company.filter.xml" timeStamp="2010-08-11T04:10:19.1870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\ConvertLeadAddressToAccountAddress.method.xml" timeStamp="2010-08-11T04:10:19.1700" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\ConvertLeadAddressToContactAddress.method.xml" timeStamp="2010-08-11T04:10:19.1870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\ConvertLeadToAccount.method.xml" timeStamp="2010-08-11T04:10:19.1870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\ConvertLeadToContact.method.xml" timeStamp="2010-08-11T04:10:19.2330" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\CountLeads.filter.xml" timeStamp="2010-08-11T04:10:19.2000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\DeleteAllLeadsInGroup.method.xml" timeStamp="2010-08-11T04:10:19.2000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\DeleteLeads.method.xml" timeStamp="2010-08-11T04:10:19.2330" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\ImportSource.filter.xml" timeStamp="2010-08-11T04:10:19.2330" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\Industry.filter.xml" timeStamp="2010-08-11T04:10:19.2470" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\IsCompanyNameAssigned.method.xml" timeStamp="2010-08-11T04:10:19.2330" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\LastCallDateAgingAverage.filter.xml" timeStamp="2010-08-11T04:10:19.2630" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\Lead.LEAD.entity.xml" timeStamp="2010-08-11T04:10:19.2630" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\ManualMergeLeadWithContact.method.xml" timeStamp="2010-08-11T04:10:19.3100" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\ManualMergeLeadwithLead.method.xml" timeStamp="2010-08-11T04:10:19.2630" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\MergeImportLeadWithContact.method.xml" timeStamp="2010-08-11T04:10:19.3100" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\MergeImportLeadWithLead.method.xml" timeStamp="2010-08-11T04:10:19.3100" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\MergeLeadWithAccount.method.xml" timeStamp="2010-08-11T04:10:19.3100" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\MergeLeadWithContact.method.xml" timeStamp="2010-08-11T04:10:19.2930" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\MergeLeadWithLead.method.xml" timeStamp="2010-08-11T04:10:19.3100" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\MonthlyCreate.filter.xml" timeStamp="2010-08-11T04:10:19.3270" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\MoveLeadAddressHistory.method.xml" timeStamp="2010-08-11T04:10:19.3100" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\MoveLeadToHistory.method.xml" timeStamp="2010-08-11T04:10:19.3100" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\Name.filter.xml" timeStamp="2010-08-11T04:10:19.3570" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:19.3400" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:19.3400" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:19.4200" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\OnBeforeCompanyChanged.method.xml" timeStamp="2010-08-11T04:10:19.4200" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:19.3570" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:19.4200" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\OnBeforeLastNameChanged.method.xml" timeStamp="2010-08-11T04:10:19.4200" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:19.3870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\OnCreate.method.xml" timeStamp="2010-08-11T04:10:19.4370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\Owner.filter.xml" timeStamp="2010-08-11T04:10:19.4200" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\Priority.filter.xml" timeStamp="2010-08-11T04:10:19.4500" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\SaveLead.method.xml" timeStamp="2010-08-11T04:10:19.4200" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\SaveLeadHistory.method.xml" timeStamp="2010-08-11T04:10:19.4370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\SICCode.filter.xml" timeStamp="2010-08-11T04:10:19.4670" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\State.filter.xml" timeStamp="2010-08-11T04:10:19.4500" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\UnassignedLeadAgingAverage.filter.xml" timeStamp="2010-08-11T04:10:19.4830" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\ValidateLead.method.xml" timeStamp="2010-08-11T04:10:19.4670" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Lead\QuickForms\" />
+</exportedFiles>

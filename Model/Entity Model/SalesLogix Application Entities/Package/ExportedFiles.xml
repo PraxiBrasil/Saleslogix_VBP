@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Package\Created.filter.xml" timeStamp="2010-08-11T04:10:22.2800" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Package\LastModified.filter.xml" timeStamp="2010-08-11T04:10:22.3400" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Package\ModifiedBy.filter.xml" timeStamp="2010-08-11T04:10:22.3870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Package\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:22.3400" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Package\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:22.3400" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Package\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:22.3570" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Package\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:22.3570" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Package\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:22.3270" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Package\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:22.4830" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Package\OnCreate.method.xml" timeStamp="2010-08-11T04:10:22.3730" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Package\Package.filter.xml" timeStamp="2010-08-11T04:10:22.4500" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Package\Package.PACKAGES.entity.xml" timeStamp="2010-08-11T04:10:22.4970" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Package\QuickForms\" />
+</exportedFiles>

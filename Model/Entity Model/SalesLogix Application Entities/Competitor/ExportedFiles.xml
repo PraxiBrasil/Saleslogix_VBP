@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Competitor\Account.filter.xml" timeStamp="2010-08-11T04:10:17.3870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Competitor\Competitor.COMPETITOR.entity.xml" timeStamp="2010-08-11T04:10:17.4030" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Competitor\Contact.filter.xml" timeStamp="2010-08-11T04:10:17.3570" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Competitor\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:17.4030" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Competitor\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:17.3870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Competitor\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:17.3730" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Competitor\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:17.3870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Competitor\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:17.4030" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Competitor\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:17.3730" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Competitor\OnCreate.method.xml" timeStamp="2010-08-11T04:10:17.4970" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Competitor\Rating.filter.xml" timeStamp="2010-08-11T04:10:17.4370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Competitor\QuickForms\" />
+</exportedFiles>

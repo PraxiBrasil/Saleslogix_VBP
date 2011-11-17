@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SLXCustomerPortal\ChildPages\PortalTicketDetailsPrintView\Modules.order.xml" timeStamp="2010-08-11T04:10:47.1700" />
+  <exportedFile url="\Portal\SLXCustomerPortal\ChildPages\PortalTicketDetailsPrintView\Pages.order.xml" timeStamp="2010-08-11T04:10:47.1530" />
+  <exportedFile url="\Portal\SLXCustomerPortal\ChildPages\PortalTicketDetailsPrintView\PortalTicketDetailsPrintView.page.xml" timeStamp="2010-08-11T04:10:47.2000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\ChildPages\PortalTicketDetailsPrintView\PortalTicketDetailsPrintView.page.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\ChildPages\PortalTicketDetailsPrintView\PortalTicketDetailsPrintView.page.xml.resx" timeStamp="2010-08-11T04:10:47.2000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\ChildPages\PortalTicketDetailsPrintView\SmartParts.order.xml" timeStamp="2010-08-11T04:10:47.1870" />
+  <exportedFile url="\Portal\SLXCustomerPortal\ChildPages\PortalTicketDetailsPrintView\Modules\" />
+  <exportedFile url="\Portal\SLXCustomerPortal\ChildPages\PortalTicketDetailsPrintView\SmartParts\" />
+</exportedFiles>

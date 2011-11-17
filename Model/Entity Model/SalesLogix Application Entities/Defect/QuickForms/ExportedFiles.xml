@@ -1,0 +1,33 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectComments.main.quickform.xml" timeStamp="2010-08-11T04:10:18.3270" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectComments.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectComments.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:18.3570" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectDetails.main.quickform.xml" timeStamp="2010-08-11T04:10:18.3570" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectDetails.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectDetails.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:18.3570" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectExtendedDetails.main.quickform.xml" timeStamp="2010-08-11T04:10:18.3570" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectExtendedDetails.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectExtendedDetails.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:18.3870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectHistory.main.quickform.xml" timeStamp="2010-08-11T04:10:18.3870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectHistory.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectHistory.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:18.3730" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectProducts.main.quickform.xml" timeStamp="2010-08-11T04:10:18.3870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectProducts.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectProducts.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:18.4370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectReturns.main.quickform.xml" timeStamp="2010-08-11T04:10:18.4370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectReturns.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectReturns.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:18.4370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectSummary.main.quickform.xml" timeStamp="2010-08-11T04:10:18.4370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectSummary.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectSummary.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:18.4500" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectTasks.main.quickform.xml" timeStamp="2010-08-11T04:10:18.4370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectTasks.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectTasks.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:18.4500" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectTickets.main.quickform.xml" timeStamp="2010-08-11T04:10:18.4370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectTickets.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\DefectTickets.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:18.4670" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\InsertDefect.main.quickform.xml" timeStamp="2010-08-11T04:10:18.4830" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\InsertDefect.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Defect\QuickForms\InsertDefect.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:18.4970" />
+</exportedFiles>

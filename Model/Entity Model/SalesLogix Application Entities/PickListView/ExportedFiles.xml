@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\PickListView\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:22.5770" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\PickListView\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:22.5770" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\PickListView\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:22.5900" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\PickListView\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:22.6230" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\PickListView\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:22.5770" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\PickListView\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:22.6370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\PickListView\OnCreate.method.xml" timeStamp="2010-08-11T04:10:22.6370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\PickListView\PickListName.filter.xml" timeStamp="2010-08-11T04:10:22.6700" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\PickListView\PickListView.PICKLISTVIEW.entity.xml" timeStamp="2010-08-11T04:10:22.6870" />
+</exportedFiles>

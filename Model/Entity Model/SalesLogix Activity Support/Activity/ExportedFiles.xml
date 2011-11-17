@@ -1,0 +1,25 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\Activity\Account.filter.xml" timeStamp="2010-08-11T04:10:15.1870" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\Activity\Activity.ACTIVITY.entity.xml" timeStamp="2010-08-11T04:10:15.1700" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\Activity\ActivityType.filter.xml" timeStamp="2010-08-11T04:10:15.1370" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\Activity\Attachment.filter.xml" timeStamp="2010-08-11T04:10:15.2330" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\Activity\Complete.method.xml" timeStamp="2010-08-11T04:10:15.1870" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\Activity\Duration.filter.xml" timeStamp="2010-08-11T04:10:15.1530" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\Activity\GetActivitiesForMashup.method.xml" timeStamp="2010-08-11T04:10:15.2330" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\Activity\Leader.filter.xml" timeStamp="2010-08-11T04:10:15.2170" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\Activity\Name.filter.xml" timeStamp="2010-08-11T04:10:15.2000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\Activity\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:15.1700" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\Activity\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:15.1700" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\Activity\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:15.1700" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\Activity\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:15.2330" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\Activity\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:15.2330" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\Activity\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:15.2330" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\Activity\OnCreate.method.xml" timeStamp="2010-08-11T04:10:15.2330" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\Activity\Opportunity.filter.xml" timeStamp="2010-08-11T04:10:15.2470" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\Activity\Recurring.filter.xml" timeStamp="2010-08-11T04:10:15.2470" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\Activity\StartDate.filter.xml" timeStamp="2010-08-11T04:10:15.3270" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\Activity\Ticket.filter.xml" timeStamp="2010-08-11T04:10:15.2630" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\Activity\Type.filter.xml" timeStamp="2010-08-11T04:10:15.2800" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\Activity\QuickForms\" />
+</exportedFiles>

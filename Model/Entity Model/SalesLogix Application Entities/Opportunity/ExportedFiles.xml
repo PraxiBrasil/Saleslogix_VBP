@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\Account.filter.xml" timeStamp="2010-08-11T04:10:21.5130" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\AccountManager.filter.xml" timeStamp="2010-08-11T04:10:21.5130" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\CheckOppAccount.method.xml" timeStamp="2010-08-11T04:10:21.5130" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\CountOpportunities.filter.xml" timeStamp="2010-08-11T04:10:21.5300" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\DaysFromOpenToClose.filter.xml" timeStamp="2010-08-11T04:10:21.5300" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\DaysInPipeLineOpen.filter.xml" timeStamp="2010-08-11T04:10:21.5300" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\Description.filter.xml" timeStamp="2010-08-11T04:10:21.5600" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\EstimatedClose.filter.xml" timeStamp="2010-08-11T04:10:21.5300" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\GetClosedWonLostOppCompetitors.method.xml" timeStamp="2010-08-11T04:10:21.5600" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\MoveOppProductsToAssets.method.xml" timeStamp="2010-08-11T04:10:21.5430" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:21.5600" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:21.5600" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:21.5600" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\OnBeforeAccountChanged.method.xml" timeStamp="2010-08-11T04:10:21.5600" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:21.5600" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:21.5900" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\OnBeforeStatusChanged.method.xml" timeStamp="2010-08-11T04:10:21.5770" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:21.5900" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\OnCreate.method.xml" timeStamp="2010-08-11T04:10:21.5770" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\Opportunity.OPPORTUNITY.entity.xml" timeStamp="2010-08-11T04:10:21.6370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\Owner.filter.xml" timeStamp="2010-08-11T04:10:21.5900" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\Potential.filter.xml" timeStamp="2010-08-11T04:10:21.6700" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\Probability.filter.xml" timeStamp="2010-08-11T04:10:21.6230" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\SetOppCompetitorReplacedFlag.method.xml" timeStamp="2010-08-11T04:10:21.6070" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\Stage.filter.xml" timeStamp="2010-08-11T04:10:21.6870" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\Status.filter.xml" timeStamp="2010-08-11T04:10:21.6070" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\StatusChangeLost.method.xml" timeStamp="2010-08-11T04:10:21.6370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\StatusChangeWon.method.xml" timeStamp="2010-08-11T04:10:21.6370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\SumActualAmount.filter.xml" timeStamp="2010-08-11T04:10:21.6070" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\SumSalesPotential.filter.xml" timeStamp="2010-08-11T04:10:21.6700" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\UpdateOppRecord.method.xml" timeStamp="2010-08-11T04:10:21.6370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\ValidateOpportunity.method.xml" timeStamp="2010-08-11T04:10:21.6230" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Opportunity\QuickForms\" />
+</exportedFiles>

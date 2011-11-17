@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="_defaultAccountSearchResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="_defaultContactSearchResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="_defaultOpportunitySearchResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="_defaultOwnerTeamResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="_defaultOwnerTeamResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="_logToHistoryResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="_promptContactNotFoundResource1.Text" xml:space="preserve">
+    <value>&lt;span id='lblPromptConNotFound'&gt;Solicitação para contato ou Lead não encontrada&lt;/span&gt;
+</value>
+  </data>
+  <data name="_promptContactNotFoundResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="_promptDuplicateContactsResource1.Text" xml:space="preserve">
+    <value>&lt;span id='lblPromptForDup'&gt;Solicitação para contatos ou Leads duplicadas&lt;/span&gt;</value>
+  </data>
+  <data name="_promptDuplicateContactsResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="_saveResource1.Text" xml:space="preserve">
+    <value>Salvar</value>
+  </data>
+  <data name="_saveResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="_showOnStartupResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="btnFlushCache1.Text" xml:space="preserve">
+    <value>Limpar o cache</value>
+  </data>
+  <data name="chkUnsavedDataWarning.Text" xml:space="preserve">
+    <value>Avisar ao sair de uma visão com dados não salvos</value>
+  </data>
+  <data name="cmdSave_rsc.AlternateText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="cmdSave_rsc.ToolTip" xml:space="preserve">
+    <value>Salvar</value>
+  </data>
+  <data name="ExtendedFeaturesResource1.Text" xml:space="preserve">
+    <value>Para pesquisar mais</value>
+  </data>
+  <data name="ExtendedFeaturesResource2.Text" xml:space="preserve">
+    <value>Extensão de recursos podem exigir um download -</value>
+  </data>
+  <data name="GeneralOptionsHelpLinkResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="GeneralOptionsHelpLinkResource1.ToolTip" xml:space="preserve">
+    <value>Ajuda</value>
+  </data>
+  <data name="GeneralOptionsHelpLinkResource2.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblDefaultAccountSearchResource1.Text" xml:space="preserve">
+    <value>Pesquisa Padrão de Conta:</value>
+  </data>
+  <data name="lblDefaultAccountSearchResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblDefaultContactSearchResource1.Text" xml:space="preserve">
+    <value>Pesquisa Padrão de Contato:</value>
+  </data>
+  <data name="lblDefaultContactSearchResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblDefaultOppSearchResource1.Text" xml:space="preserve">
+    <value>Pesquisa Padrão de Oportunidade:</value>
+  </data>
+  <data name="lblDefaultOppSearchResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblDefaultOwnerResource1.Text" xml:space="preserve">
+    <value>Padrão Proprietário/Equipe:</value>
+  </data>
+  <data name="lblDefaultOwnerResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblEmailBaseTemplateResource1.Text" xml:space="preserve">
+    <value>Modelo Base de E-Mail:</value>
+  </data>
+  <data name="lblEmailBaseTemplateResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblEmailOptionsResource1.Text" xml:space="preserve">
+    <value>Opções de E-mail</value>
+  </data>
+  <data name="lblEmailOptionsResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblFaxBaseTemplateResource1.Text" xml:space="preserve">
+    <value>Modelo Base de Fax:</value>
+  </data>
+  <data name="lblFaxBaseTemplateResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblFaxProviderResource1.Text" xml:space="preserve">
+    <value>Provedor do Fax</value>
+  </data>
+  <data name="lblFaxProviderResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblGenOptionsResource1.Text" xml:space="preserve">
+    <value>Opções Gerais</value>
+  </data>
+  <data name="lblGenOptionsResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblLetterBaseTemplateResource1.Text" xml:space="preserve">
+    <value>Modelo Base de Carta:</value>
+  </data>
+  <data name="lblLetterBaseTemplateResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblLogToHistoryResource1.Text" xml:space="preserve">
+    <value>Entrar Para História</value>
+  </data>
+  <data name="lblLogToHistoryResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblMyCurrencyResource1.Text" xml:space="preserve">
+    <value>Minha Moeda:</value>
+  </data>
+  <data name="lblMyCurrencyResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblRecentTemplatesResource1.Text" xml:space="preserve">
+    <value>Escrever Menu - Modelos Recentes</value>
+  </data>
+  <data name="lblRecentTemplatesResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblSearchOptionsResource1.Text" xml:space="preserve">
+    <value>Opções de Busca</value>
+  </data>
+  <data name="lblSearchOptionsResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblShowOnStartupResource1.Text" xml:space="preserve">
+    <value>Exibir na Inicialização:</value>
+  </data>
+  <data name="lblShowOnStartupResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="LitRequest_RToolsResource1.GroupingText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="LitRequest_RToolsResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="msgMenuRangeMessage" xml:space="preserve">
+    <value>Você deve digitar um número entre 0 e 10 para a gravação do Menu - Valor de Modelos recentes.</value>
+  </data>
+  <data name="PageDescription.Text" xml:space="preserve">
+    <value>Geral / Pesquisa</value>
+  </data>
+  <data name="PageDescription.Title" xml:space="preserve">
+    <value>Geral / Pesquisa</value>
+  </data>
+  <data name="txtEmailBaseTemplateIdResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtEmailBaseTemplateIdResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtEmailBaseTemplateResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtEmailBaseTemplateResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtFaxBaseTemplateIdResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtFaxBaseTemplateIdResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtFaxBaseTemplateResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtFaxBaseTemplateResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtFaxProviderResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtFaxProviderResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtLetterBaseTemplateIdResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtLetterBaseTemplateIdResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtLetterBaseTemplateResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtLetterBaseTemplateResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtRecentTemplatesResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtRecentTemplatesResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="UseActiveMailResource.Text" xml:space="preserve">
+    <value>Utilização do ActiveMail (requer ActiveX)</value>
+  </data>
+  <data name="lblIntellisyncResource1.Text" xml:space="preserve">
+    <value>Grupo Contato Intellisync:</value>
+  </data>
+  <data name="lblIntellisyncResource1.ToolTop" xml:space="preserve">
+    <value />
+  </data>
+  <data name="adhoc_group_format" xml:space="preserve">
+    <value>{0} ({1} Contatos)</value>
+  </data>
+  <data name="lblAutoLogoffResource1.Text" xml:space="preserve">
+    <value>Habilitar Logoff automático:</value>
+  </data>
+  <data name="lblLogOffAfterResource1.Text" xml:space="preserve">
+    <value>Faça logoff depois</value>
+  </data>
+  <data name="LPRate_rsc.PropertyHeader" xml:space="preserve">
+    <value>Taxa</value>
+  </data>
+  <data name="PromptForUnsavedData" xml:space="preserve">
+    <value>Avisar antes de deixar a página com os dados salvos</value>
+  </data>
+  <data name="UseActiveReportingResource.Text" xml:space="preserve">
+    <value>Utilização ActiveReporting (requer ActiveX e Crystal Runtime)</value>
+  </data>
+  <data name="MailMergeServiceError" xml:space="preserve">
+    <value>O serviço de mala direta não pôde ser carregado. Isso pode acontecer se a integração com SalesLogix Sage Desktop não está instalado ou não foi instalada corretamente.</value>
+  </data>
+  <data name="ClickToDownload" xml:space="preserve">
+    <value>Clique para baixar acessórios do produto.</value>
+  </data>
+  <data name="EnhanceSalesLogix" xml:space="preserve">
+    <value>Reforçar SalesLogix...</value>
+  </data>
+  <data name="FindOutMore" xml:space="preserve">
+    <value>Para pesquisar mais</value>
+  </data>
+  <data name="EnhancementsAreInstalled" xml:space="preserve">
+    <value>Melhorias foram instaladas</value>
+  </data>
+</root>

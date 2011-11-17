@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Security Support\OwnerSecurityProfile\GetSecurityProfileByName.method.xml" timeStamp="2010-08-11T04:10:26.3570" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\OwnerSecurityProfile\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:26.3730" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\OwnerSecurityProfile\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:26.3870" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\OwnerSecurityProfile\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:26.3730" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\OwnerSecurityProfile\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:26.3870" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\OwnerSecurityProfile\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:26.3870" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\OwnerSecurityProfile\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:26.3870" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\OwnerSecurityProfile\OnCreate.method.xml" timeStamp="2010-08-11T04:10:26.3870" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\OwnerSecurityProfile\OwnerSecurityProfile.SECPROFILE.entity.xml" timeStamp="2010-08-11T04:10:26.4370" />
+</exportedFiles>

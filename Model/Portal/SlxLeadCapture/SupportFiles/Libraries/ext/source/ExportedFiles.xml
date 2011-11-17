@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxLeadCapture\SupportFiles\Libraries\ext\source\debug.js" timeStamp="2010-08-11T04:11:07.9670" />
+  <exportedFile url="\Portal\SlxLeadCapture\SupportFiles\Libraries\ext\source\ext.jsb" timeStamp="2010-08-11T04:11:07.9830" />
+  <exportedFile url="\Portal\SlxLeadCapture\SupportFiles\Libraries\ext\source\license.txt" timeStamp="2010-08-11T04:11:07.9670" />
+  <exportedFile url="\Portal\SlxLeadCapture\SupportFiles\Libraries\ext\source\adapter\" />
+  <exportedFile url="\Portal\SlxLeadCapture\SupportFiles\Libraries\ext\source\core\" />
+  <exportedFile url="\Portal\SlxLeadCapture\SupportFiles\Libraries\ext\source\data\" />
+  <exportedFile url="\Portal\SlxLeadCapture\SupportFiles\Libraries\ext\source\dd\" />
+  <exportedFile url="\Portal\SlxLeadCapture\SupportFiles\Libraries\ext\source\locale\" />
+  <exportedFile url="\Portal\SlxLeadCapture\SupportFiles\Libraries\ext\source\state\" />
+  <exportedFile url="\Portal\SlxLeadCapture\SupportFiles\Libraries\ext\source\util\" />
+  <exportedFile url="\Portal\SlxLeadCapture\SupportFiles\Libraries\ext\source\widgets\" />
+</exportedFiles>

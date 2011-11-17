@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\CodeTemplates\Entity\Default-Class-SalesLogix.Class.codetemplate.xml" timeStamp="2010-08-11T04:10:13.1230" />
+  <exportedFile url="\Entity Model\CodeTemplates\Entity\Default-FormInterface-SalesLogix.FormInterface.codetemplate.xml" timeStamp="2010-08-11T04:10:13.1070" />
+  <exportedFile url="\Entity Model\CodeTemplates\Entity\Default-hibernate-xml.configuration.codetemplate.xml" timeStamp="2010-08-11T04:10:13.1530" />
+  <exportedFile url="\Entity Model\CodeTemplates\Entity\Default-Interface-SalesLogix.Interface.codetemplate.xml" timeStamp="2010-08-11T04:10:13.1230" />
+  <exportedFile url="\Entity Model\CodeTemplates\Entity\Default-Mapping-SalesLogix.Mapping.codetemplate.xml" timeStamp="2010-08-11T04:10:13.2330" />
+  <exportedFile url="\Entity Model\CodeTemplates\Entity\Default-ResX-SalesLogix.ResX.codetemplate.xml" timeStamp="2010-08-11T04:10:13.2000" />
+  <exportedFile url="\Entity Model\CodeTemplates\Entity\Default-ResXClass-SalesLogix.ResXClass.codetemplate.xml" timeStamp="2010-08-11T04:10:13.2000" />
+  <exportedFile url="\Entity Model\CodeTemplates\Entity\Default-SData-SalesLogix.sdata.codetemplate.xml" timeStamp="2010-08-11T04:10:13.2170" />
+  <exportedFile url="\Entity Model\CodeTemplates\Entity\Default-SDataSchema-SalesLogix.sdata-schema.codetemplate.xml" timeStamp="2010-08-11T04:10:13.2630" />
+  <exportedFile url="\Entity Model\CodeTemplates\Entity\Default-SDataSchema2-SalesLogix.sdata-schema2.codetemplate.xml" timeStamp="2010-08-11T04:10:13.2470" />
+</exportedFiles>

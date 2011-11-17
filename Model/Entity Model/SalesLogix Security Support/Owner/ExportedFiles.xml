@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Owner\GetOwnerSecurityProfile.method.xml" timeStamp="2010-08-11T04:10:26.1070" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Owner\IsValidName.method.xml" timeStamp="2010-08-11T04:10:26.1230" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Owner\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:26.0900" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Owner\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:26.0900" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Owner\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:26.1070" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Owner\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:26.1230" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Owner\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:26.1070" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Owner\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:26.1230" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Owner\OnCreate.method.xml" timeStamp="2010-08-11T04:10:26.1070" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Owner\Owner.filter.xml" timeStamp="2010-08-11T04:10:26.1230" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Owner\Owner.SECCODE.entity.xml" timeStamp="2010-08-11T04:10:26.2330" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Owner\OwnerNameExists.method.xml" timeStamp="2010-08-11T04:10:26.1370" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Owner\RemoveAllOwnerRights.method.xml" timeStamp="2010-08-11T04:10:26.2000" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Owner\RemoveOwnerJoinRecord.method.xml" timeStamp="2010-08-11T04:10:26.1370" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Owner\ReplaceOwner.method.xml" timeStamp="2010-08-11T04:10:26.2000" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Owner\Type.filter.xml" timeStamp="2010-08-11T04:10:26.1700" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Owner\UpdateOwnerSecurityProfile.method.xml" timeStamp="2010-08-11T04:10:26.1700" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Owner\QuickForms\" />
+</exportedFiles>

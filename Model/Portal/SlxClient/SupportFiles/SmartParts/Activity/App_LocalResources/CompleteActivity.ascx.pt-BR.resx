@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AccountId_lz.Text" xml:space="preserve">
+    <value>Conta:</value>
+  </data>
+  <data name="CarryOverNotes_lz.Text" xml:space="preserve">
+    <value>Traspasar notas</value>
+  </data>
+  <data name="Category_lz.Text" xml:space="preserve">
+    <value>Categoria:</value>
+  </data>
+  <data name="Company_lz.Text" xml:space="preserve">
+    <value>Empresa:</value>
+  </data>
+  <data name="Completed_lz.Text" xml:space="preserve">
+    <value>Completado:</value>
+  </data>
+  <data name="Const_by" xml:space="preserve">
+    <value>por</value>
+  </data>
+  <data name="Const_Complete" xml:space="preserve">
+    <value>Completo
+</value>
+  </data>
+  <data name="Const_CompleteActivity" xml:space="preserve">
+    <value>Atividade Completa</value>
+  </data>
+  <data name="Const_CompleteMeeting" xml:space="preserve">
+    <value>Atividade Completa - Reunião</value>
+  </data>
+  <data name="Const_CompletePersonal" xml:space="preserve">
+    <value>Atividade Completa - Pessoal</value>
+  </data>
+  <data name="Const_CompletePhoneCall" xml:space="preserve">
+    <value>Atividade Completa - Chamada Telefônica</value>
+  </data>
+  <data name="Const_CompleteToDo" xml:space="preserve">
+    <value>Atividade Completa - Tarefa
+</value>
+  </data>
+  <data name="Const_None" xml:space="preserve">
+    <value>Nenhum</value>
+  </data>
+  <data name="ContactId_lz.Text" xml:space="preserve">
+    <value>Contato</value>
+  </data>
+  <data name="Description_lz.Text" xml:space="preserve">
+    <value>Assunto</value>
+  </data>
+  <data name="Duration_lz.Text" xml:space="preserve">
+    <value>Duração:</value>
+  </data>
+  <data name="FollowUp_lz.Text" xml:space="preserve">
+    <value>Follow-Up</value>
+  </data>
+  <data name="LeadId_lz.Text" xml:space="preserve">
+    <value>Lead:</value>
+  </data>
+  <data name="Notes_lz.Text" xml:space="preserve">
+    <value>Notas:</value>
+  </data>
+  <data name="OpportunityId_lz.Text" xml:space="preserve">
+    <value>Oportunidade:</value>
+  </data>
+  <data name="Priority_lz.Text" xml:space="preserve">
+    <value>Prioridade:</value>
+  </data>
+  <data name="rbContact.Text" xml:space="preserve">
+    <value>Contato</value>
+  </data>
+  <data name="rbLead.Text" xml:space="preserve">
+    <value>Lead</value>
+  </data>
+  <data name="Result_lz.Text" xml:space="preserve">
+    <value>Resultado:</value>
+  </data>
+  <data name="Scheduled_lz.Text" xml:space="preserve">
+    <value>Agendado:</value>
+  </data>
+  <data name="TicketId_lz.Text" xml:space="preserve">
+    <value>Ticket:</value>
+  </data>
+  <data name="UserId_lz.Text" xml:space="preserve">
+    <value>Responsável:</value>
+  </data>
+  <data name="FollowUp.ListItem.Meeting" xml:space="preserve">
+    <value>Reunião</value>
+  </data>
+  <data name="FollowUp.ListItem.None" xml:space="preserve">
+    <value>Nenhum</value>
+  </data>
+  <data name="FollowUp.ListItem.PhoneCall" xml:space="preserve">
+    <value>Chamada Telefônica</value>
+  </data>
+  <data name="FollowUp.ListItem.ToDo" xml:space="preserve">
+    <value>Tarefa</value>
+  </data>
+  <data name="Timeless_lz.Text" xml:space="preserve">
+    <value>Duração Indeterminada</value>
+  </data>
+  <data name="CarryOverAttachments_lz.Text" xml:space="preserve">
+    <value>Carregar Anexos</value>
+  </data>
+  <data name="Lookup_Account.PropertyHeader" xml:space="preserve">
+    <value>Conta</value>
+  </data>
+  <data name="Lookup_Area.PropertyHeader" xml:space="preserve">
+    <value>Área</value>
+  </data>
+  <data name="Lookup_City.PropertyHeader" xml:space="preserve">
+    <value>Cidade</value>
+  </data>
+  <data name="Lookup_Company.PropertyHeader" xml:space="preserve">
+    <value>Empresa</value>
+  </data>
+  <data name="Lookup_Country.PropertyHeader" xml:space="preserve">
+    <value>País</value>
+  </data>
+  <data name="Lookup_Description.PropertyHeader" xml:space="preserve">
+    <value>Descrição</value>
+  </data>
+  <data name="Lookup_Email.PropertyHeader" xml:space="preserve">
+    <value>E-Mail</value>
+  </data>
+  <data name="Lookup_FirstName.PropertyHeader" xml:space="preserve">
+    <value>Primeiro Nome</value>
+  </data>
+  <data name="Lookup_Industry.PropertyHeader" xml:space="preserve">
+    <value>Indústria</value>
+  </data>
+  <data name="Lookup_LastName.PropertyHeader" xml:space="preserve">
+    <value>Sobrenome</value>
+  </data>
+  <data name="Lookup_MainPhone.PropertyHeader" xml:space="preserve">
+    <value>Telefone Principal</value>
+  </data>
+  <data name="Lookup_Manager.PropertyHeader" xml:space="preserve">
+    <value>Ger. Conta</value>
+  </data>
+  <data name="Lookup_Mobile.PropertyHeader" xml:space="preserve">
+    <value>Celular</value>
+  </data>
+  <data name="Lookup_Name.PropertyHeader" xml:space="preserve">
+    <value>Nome</value>
+  </data>
+  <data name="Lookup_Owner.PropertyHeader" xml:space="preserve">
+    <value>Proprietário</value>
+  </data>
+  <data name="Lookup_Phone.PropertyHeader" xml:space="preserve">
+    <value>Telefone</value>
+  </data>
+  <data name="Lookup_Postal.PropertyHeader" xml:space="preserve">
+    <value>Código Postal</value>
+  </data>
+  <data name="Lookup_Region.PropertyHeader" xml:space="preserve">
+    <value>Região</value>
+  </data>
+  <data name="Lookup_Stage.PropertyHeader" xml:space="preserve">
+    <value>Estágio</value>
+  </data>
+  <data name="Lookup_State.PropertyHeader" xml:space="preserve">
+    <value>Estado</value>
+  </data>
+  <data name="Lookup_Status.PropertyHeader" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="Lookup_SubType.PropertyHeader" xml:space="preserve">
+    <value>Sub-Tipo</value>
+  </data>
+  <data name="Lookup_Ticket Status.PropertyHeader" xml:space="preserve">
+    <value>Status do Ticket</value>
+  </data>
+  <data name="Lookup_TicketArea.PropertyHeader" xml:space="preserve">
+    <value>Ticket Área</value>
+  </data>
+  <data name="Lookup_TicketNumber.PropertyHeader" xml:space="preserve">
+    <value>ID Ticket</value>
+  </data>
+  <data name="Lookup_Type.PropertyHeader" xml:space="preserve">
+    <value>Tipo</value>
+  </data>
+  <data name="Lookup_Urgency.PropertyHeader" xml:space="preserve">
+    <value>Urgência</value>
+  </data>
+  <data name="Lookup_Work.PropertyHeader" xml:space="preserve">
+    <value>Trabalho</value>
+  </data>
+  <data name="Lookup_WorkPhone.PropertyHeader" xml:space="preserve">
+    <value>Telefone Comercial</value>
+  </data>
+</root>

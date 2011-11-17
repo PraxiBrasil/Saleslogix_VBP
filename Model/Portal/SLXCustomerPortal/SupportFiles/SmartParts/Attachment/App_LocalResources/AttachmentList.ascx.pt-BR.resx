@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="grdAttachments_Description_Header" xml:space="preserve">
+    <value>Anexo</value>
+  </data>
+  <data name="cmdEditUpload.Caption" xml:space="preserve">
+    <value>Salvar</value>
+  </data>
+  <data name="lblSaveFile.Caption" xml:space="preserve">
+    <value>Salvar Arquivo:</value>
+  </data>
+  <data name="Confrim_DeleteAttachment_lz" xml:space="preserve">
+    <value>Excluir Anexo</value>
+  </data>
+  <data name="grdAttachments_ModifyDateTime_Header" xml:space="preserve">
+    <value>Modificar Data/Hora</value>
+  </data>
+  <data name="Delete_Button_lz.ToolTip" xml:space="preserve">
+    <value>Excluir</value>
+  </data>
+  <data name="dtpAttachedDate.Caption" xml:space="preserve">
+    <value>Anexado na Data:</value>
+  </data>
+  <data name="Edit_Button_lz.ToolTip" xml:space="preserve">
+    <value>Editar</value>
+  </data>
+  <data name="grdAttachments_EmptyTableRowText" xml:space="preserve">
+    <value>Não foram encontrados regustris correspondentes aos critérios de seleção.</value>
+  </data>
+  <data name="Error_Delete_AttachNotFound" xml:space="preserve">
+    <value>O anexo, {0} não pode ser encontrado para excluir.</value>
+  </data>
+  <data name="Error_Delete_Exception" xml:space="preserve">
+    <value>Ocorreu um erro ao tentar excluir o arquivo anexo, {0}: {1}</value>
+  </data>
+  <data name="Error_InvalidEntityName_lz" xml:space="preserve">
+    <value>Houve um problema ao resolver o nome da propriedade para a entidade de anexos {0}.</value>
+  </data>
+  <data name="Error_NoFile_lz" xml:space="preserve">
+    <value>Para enviar um arquivo, você deve procurar o arquivo que deseja enviar.</value>
+  </data>
+  <data name="Error_NoRecordSelected_lz" xml:space="preserve">
+    <value>Por favor selecione um anexo antes de continuar.</value>
+  </data>
+  <data name="Error_NoURL_Description" xml:space="preserve">
+    <value>Você deve digitar uma descrição URL antes de continuar.</value>
+  </data>
+  <data name="Error_TempFileDelete_lz" xml:space="preserve">
+    <value>Não é possível excluir o anexo temporário no servidor.</value>
+  </data>
+  <data name="Error_TempFileLocateDelete_lz" xml:space="preserve">
+    <value>Impossível localizar o arquivo temporário no servidor, para exclusão.</value>
+  </data>
+  <data name="Error_UnableToLoad_lz" xml:space="preserve">
+    <value>Não foi especificado upload do arquivo - por favor, navegue até o arquivo desejado.</value>
+  </data>
+  <data name="grdAttachments_Size_Header" xml:space="preserve">
+    <value>Tamanho</value>
+  </data>
+  <data name="FileSize_Unknown_lz" xml:space="preserve">
+    <value>Desconhecido</value>
+  </data>
+  <data name="FileURL_label_lz.Text" xml:space="preserve">
+    <value>URL:</value>
+  </data>
+  <data name="InsertFile_Button_lz.ToolTip" xml:space="preserve">
+    <value>Adicionar Arquivo</value>
+  </data>
+  <data name="InsertUrl_Button_lz.alt" xml:space="preserve">
+    <value>Adicionar URL</value>
+  </data>
+  <data name="lblEditUpload.Caption" xml:space="preserve">
+    <value>Enviar Arquivo:</value>
+  </data>
+  <data name="radProgress_Cancel" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="radProgress_CurrentFile" xml:space="preserve">
+    <value>Enviando arquivo:</value>
+  </data>
+  <data name="radProgress_ElapsedTime" xml:space="preserve">
+    <value>Tempo decorrido:</value>
+  </data>
+  <data name="radProgress_EstimatedTime" xml:space="preserve">
+    <value>Tempo estimado:</value>
+  </data>
+  <data name="radProgress_Total" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="radProgress_TransferSpeed" xml:space="preserve">
+    <value>Velocidade</value>
+  </data>
+  <data name="radProgress_Uploaded" xml:space="preserve">
+    <value>Carregado</value>
+  </data>
+  <data name="radProgress_UploadedFiles" xml:space="preserve">
+    <value>Arquivos enviados:</value>
+  </data>
+  <data name="txtEditAttachedBy.Caption" xml:space="preserve">
+    <value>Anexado Por:</value>
+  </data>
+  <data name="txtEditDesc.Caption" xml:space="preserve">
+    <value>Descrição:</value>
+  </data>
+  <data name="txtEditFile.Caption" xml:space="preserve">
+    <value>Arquivo:</value>
+  </data>
+  <data name="txtEditSize.Caption" xml:space="preserve">
+    <value>Tamanho:</value>
+  </data>
+  <data name="txtEditURL.ToolTip" xml:space="preserve">
+    <value>Introduza a nova URL</value>
+  </data>
+  <data name="txtInsertDesc.Caption" xml:space="preserve">
+    <value>Descrição:</value>
+  </data>
+  <data name="txtInsertDesc.ToolTip" xml:space="preserve">
+    <value>Descrição para o Anexo</value>
+  </data>
+  <data name="txtInsertURL.Caption" xml:space="preserve">
+    <value>URL:</value>
+  </data>
+  <data name="uplInsertUpload.Caption" xml:space="preserve">
+    <value>Arquivo:</value>
+  </data>
+  <data name="uplInsertUpload.ToolTip" xml:space="preserve">
+    <value>Navegue até o local do arquivo para upload</value>
+  </data>
+  <data name="grdAttachments_ModifyUser_Header" xml:space="preserve">
+    <value>Modificar Usuário</value>
+  </data>
+  <data name="Error_NoURL_Address" xml:space="preserve">
+    <value>Você deve digitar um endereço na web antes de continuar.</value>
+  </data>
+  <data name="Confrim_Activity_DeleteAttachment" xml:space="preserve">
+    <value>Se você excluir este anexo, ele será excluído de todas as ocorrências atualmente vinculados a esta atividade. Você quer continuar?</value>
+  </data>
+  <data name="uplInsertUpload_Button_Caption" xml:space="preserve">
+    <value>Examinar</value>
+  </data>
+</root>

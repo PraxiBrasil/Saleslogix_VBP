@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Antlr3.Runtime.dll" timeStamp="2009-11-19T14:52:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Castle.Core.dll" timeStamp="2009-11-19T14:52:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Castle.DynamicProxy2.dll" timeStamp="2009-11-19T14:52:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Crypt.dll" timeStamp="2010-08-11T04:10:02.9670" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\dtSearchNetApi2.dll" timeStamp="2007-07-09T14:20:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Iesi.Collections.dll" timeStamp="2009-11-19T14:52:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\IntellisyncTestEngine.dll" timeStamp="2010-08-11T04:10:47.8730" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Interop.GroupTranslator.dll" timeStamp="2009-11-19T14:52:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Interop.SlxLoggingObj2.dll" timeStamp="2009-02-11T14:51:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Interop.SLXSystem.dll" timeStamp="2008-09-13T14:50:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\log4net.dll" timeStamp="2007-07-09T14:20:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Microsoft.Unity.dll" timeStamp="2009-11-19T14:52:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Mono.TextTemplating.dll" timeStamp="2009-11-19T14:52:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Newtonsoft.Json.dll" timeStamp="2010-08-11T04:10:03.3400" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\NHibernate.ByteCode.Castle.dll" timeStamp="2010-08-11T04:10:08.3270" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\NHibernate.Caches.SysCache.dll" timeStamp="2010-08-11T04:10:08.2630" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\NHibernate.dll" timeStamp="2009-11-19T14:52:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.Platform.Application.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.Platform.Application.UI.Web.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.Platform.Configuration.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.Platform.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.Platform.Expressions.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.Platform.FileSystem.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.Platform.VirtualFileSystem.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.Platform.WebPortal.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.SalesLogix.Activity.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.SalesLogix.BusinessRules.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.SalesLogix.Client.GroupBuilder.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.SalesLogix.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.SalesLogix.HighLevelTypes.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.SalesLogix.Intellisync.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.SalesLogix.Intellisync.Entity.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.SalesLogix.Intellisync.Schema.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.SalesLogix.Intellisync.SyncModule.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.SalesLogix.LegacyBridge.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.SalesLogix.NHibernate.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.SalesLogix.PickLists.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.SalesLogix.Plugins.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.SalesLogix.Security.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.SalesLogix.System.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.SalesLogix.Web.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.SalesLogix.Web.UI.Activity.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\Sage.SalesLogix.WebUserOptions.dll" timeStamp="2010-08-10T14:53:00.0000" />
+  <exportedFile url="\Portal\SlxIntellisync\SupportFiles\Bin\pt-BR\" />
+</exportedFiles>

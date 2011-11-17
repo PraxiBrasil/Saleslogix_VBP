@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\AreaCategoryIssue\AreaCategoryIssue.AREACATEGORYISSUE.entity.xml" timeStamp="2010-08-11T04:10:16.8570" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\AreaCategoryIssue\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:16.8270" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\AreaCategoryIssue\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:16.8570" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\AreaCategoryIssue\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:16.8570" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\AreaCategoryIssue\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:16.8570" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\AreaCategoryIssue\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:16.8570" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\AreaCategoryIssue\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:16.8730" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\AreaCategoryIssue\OnCreate.method.xml" timeStamp="2010-08-11T04:10:16.9030" />
+</exportedFiles>

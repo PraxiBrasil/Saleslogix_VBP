@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\DefectActivityRate\DefectActivityRate.DEFECTACTIVITYRATE.entity.xml" timeStamp="2010-08-11T04:10:18.5300" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\DefectActivityRate\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:18.5300" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\DefectActivityRate\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:18.5300" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\DefectActivityRate\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:18.5300" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\DefectActivityRate\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:18.5300" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\DefectActivityRate\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:18.5430" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\DefectActivityRate\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:18.5770" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\DefectActivityRate\OnCreate.method.xml" timeStamp="2010-08-11T04:10:18.5770" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\DefectActivityRate\QuickForms\" />
+</exportedFiles>

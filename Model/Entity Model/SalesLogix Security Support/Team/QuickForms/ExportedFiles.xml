@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\AccountAccess.main.quickform.xml" timeStamp="2010-08-11T04:10:26.9670" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\AccountAccess.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\AccountAccess.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:26.9830" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\InsertTeam.addManagerCheckBox_OnChange.method.xml" timeStamp="2010-08-11T04:10:27.0430" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\InsertTeam.main.quickform.xml" timeStamp="2010-08-11T04:10:27.0770" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\InsertTeam.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\InsertTeam.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:27.0600" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\InsertTeam.OnLoad1.method.xml" timeStamp="2010-08-11T04:10:27.0770" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\InsertTeam.SaveButton_OnClick.method.xml" timeStamp="2010-08-11T04:10:27.0770" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\Sage.SnippetLibrary.CSharp.@.03091632-89e8-4251-abd3-6fb1908b5850.codesnippet.cs" timeStamp="2010-08-11T04:10:27.0600" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\Sage.SnippetLibrary.CSharp.@.2ecf513b-9d6e-4d67-8fe6-5da9606e0452.codesnippet.cs" timeStamp="2010-08-11T04:10:27.0900" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\Sage.SnippetLibrary.CSharp.@.90319504-4655-425f-84dd-45d5d3dd7c45.codesnippet.cs" timeStamp="2010-08-11T04:10:27.1230" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\Sage.SnippetLibrary.CSharp.@.96324b47-2a42-4286-b848-77e9db9b1458.codesnippet.cs" timeStamp="2010-08-11T04:10:27.1700" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\Sage.SnippetLibrary.CSharp.@.b1cc6d45-c15b-484b-be9a-62ae60be3ffc.codesnippet.cs" timeStamp="2010-08-11T04:10:27.1070" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\Sage.SnippetLibrary.CSharp.@.cb74a93a-7f16-485d-87b3-a8d7fde3ea5f.codesnippet.cs" timeStamp="2010-08-11T04:10:27.1530" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\Sage.SnippetLibrary.CSharp.@.ddca11d6-f94b-4107-8d28-4972fe39eb55.codesnippet.cs" timeStamp="2010-08-11T04:10:27.1530" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\Sage.SnippetLibrary.CSharp.@.e0f24232-d514-48b2-bf3f-16e4259495c1.codesnippet.cs" timeStamp="2010-08-11T04:10:27.1700" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\TeamDetails.main.quickform.xml" timeStamp="2010-08-11T04:10:27.1230" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\TeamDetails.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\TeamDetails.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:27.2000" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\TeamDetails.OnLoad1.method.xml" timeStamp="2010-08-11T04:10:27.1530" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\TeamDetails.SaveButtonOnClick.method.xml" timeStamp="2010-08-11T04:10:27.1870" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\TeamMembers.AddManagerCheckBox_OnChange.method.xml" timeStamp="2010-08-11T04:10:27.2630" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\TeamMembers.grdOwnerJoins_OnRowSelected.method.xml" timeStamp="2010-08-11T04:10:27.2630" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\TeamMembers.lueAddTeamMember_OnChange.method.xml" timeStamp="2010-08-11T04:10:27.2630" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\TeamMembers.main.quickform.xml" timeStamp="2010-08-11T04:10:27.2330" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\TeamMembers.main.quickform.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\TeamMembers.main.quickform.xml.resx" timeStamp="2010-08-11T04:10:27.2330" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\Team\QuickForms\TeamMembers.OnLoad1.method.xml" timeStamp="2010-08-11T04:10:27.2470" />
+</exportedFiles>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\sdata\ContextMenuItems.order.xml" timeStamp="2010-08-11T04:10:29.7000" />
+  <exportedFile url="\Portal\sdata\MenuItems.order.xml" timeStamp="2010-08-11T04:10:29.7170" />
+  <exportedFile url="\Portal\sdata\Modules.order.xml" timeStamp="2010-08-11T04:10:29.7330" />
+  <exportedFile url="\Portal\sdata\NavigationGroups.order.xml" timeStamp="2010-08-11T04:10:29.7000" />
+  <exportedFile url="\Portal\sdata\sdata.portal.xml" timeStamp="2010-08-11T04:10:29.7170" />
+  <exportedFile url="\Portal\sdata\sdata.portal.xml.pt-BR.resx" timeStamp="2011-09-16T18:47:42.0000" />
+  <exportedFile url="\Portal\sdata\sdata.portal.xml.resx" timeStamp="2010-08-11T04:10:29.7170" />
+  <exportedFile url="\Portal\sdata\Services.order.xml" timeStamp="2010-08-11T04:10:29.7170" />
+  <exportedFile url="\Portal\sdata\SupportFiles.def.xml" timeStamp="2010-08-11T04:10:29.7170" />
+  <exportedFile url="\Portal\sdata\Deployment\" />
+  <exportedFile url="\Portal\sdata\Modules\" />
+  <exportedFile url="\Portal\sdata\Services\" />
+  <exportedFile url="\Portal\sdata\SupportFiles\" />
+</exportedFiles>

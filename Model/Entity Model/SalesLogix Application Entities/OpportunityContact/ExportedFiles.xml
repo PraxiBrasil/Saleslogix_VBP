@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\OpportunityContact\OnAfterDelete.method.xml" timeStamp="2010-08-11T04:10:22.1370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\OpportunityContact\OnAfterInsert.method.xml" timeStamp="2010-08-11T04:10:22.1230" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\OpportunityContact\OnAfterUpdate.method.xml" timeStamp="2010-08-11T04:10:22.1230" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\OpportunityContact\OnBeforeDelete.method.xml" timeStamp="2010-08-11T04:10:22.1230" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\OpportunityContact\OnBeforeInsert.method.xml" timeStamp="2010-08-11T04:10:22.1230" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\OpportunityContact\OnBeforeUpdate.method.xml" timeStamp="2010-08-11T04:10:22.1230" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\OpportunityContact\OnCreate.method.xml" timeStamp="2010-08-11T04:10:22.1370" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\OpportunityContact\OpportunityContact.OPPORTUNITY_CONTACT.entity.xml" timeStamp="2010-08-11T04:10:22.1530" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\OpportunityContact\SetOppContactDefaults.method.xml" timeStamp="2010-08-11T04:10:22.2000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\OpportunityContact\QuickForms\" />
+</exportedFiles>
